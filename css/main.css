@@ -1,0 +1,159 @@
+body { margin:0; padding:0; 
+        /*font-family: 'Lato', Calibri, Arial, sans-serif;*/
+        font-family: : 'Raleway';
+    color: black;
+    background: white;
+    overflow: hidden;
+    font-color: black;
+
+    }
+
+
+h3 {
+    color: black;
+    font-family: : 'Raleway';
+}
+
+p {
+   color: black;
+   font-family: : 'Raleway'; 
+}
+
+
+#map { position:absolute; bottom:0; width:80%; height: 100% }
+
+
+
+
+/*Menu
+-------------------------------------------------*/
+
+.menu-container {
+  color: #fff;
+  background-color: white; 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  align-content: stretch;  
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.menu{
+    width: 20%;
+    position: relative;
+    z-index: 1;
+    flex-basis: auto;
+    align-self: auto;
+}
+
+
+#menu {
+/*    width: 20%;
+    position: relative;
+    z-index: 1;
+    flex-basis: auto;
+    align-self: auto;*/
+}
+
+#menu a {
+    font-size: 13px;
+    /*color: #404040;*/
+    /*color: black;*/
+    display: flex-inline;
+    margin: 0;
+    padding: 0;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+/*    font-family: 'Raleway';*/
+}
+
+#menu a:last-child {
+    border: none;
+}
+
+#menu a:hover {
+    background-color: black;
+    color: white;
+}
+
+#menu a.active {
+    /*background-color: #3887be;*/
+    /*color: #ffffff;*/
+    color:black;
+}
+
+#menu a.active:hover {
+    background: black;
+    color:white;
+}
+
+.menu-search {
+  color: #fff;
+  background-color: white; 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  align-content: stretch;  
+  width: 100%;
+  font-family: 'Raleway', sans-serif;}
+
+
+.search-location a{
+    /*width:20%;*/
+/*    background: #fff;
+    position: absolute;
+    flex-basis: auto;
+    align-self: auto;*/
+}
+
+
+
+/* Pop Up
+-------------------------------------------------*/
+.mapboxgl-popup {
+        max-width: 400px;
+        font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    }
+
+#landing{
+    background-color: white;
+}
+
+
+
+/* GEOCODER SEARCH
+-------------------------------------------------*/
+
+
+.geocoder {
+        position:absolute;
+        z-index:1;
+        width:50%;
+        left:50%;
+        margin-left:-25%;
+        top:20px;
+    }
+
+.mapboxgl-ctrl-geocoder { min-width:100%; }
+
+
+
+/* FLY TO
+-------------------------------------------------*/
+#fly {
+        display: block;
+        position: relative;
+        margin: 0px auto;
+        width: 50%;
+        height: 40px;
+        padding: 10px;
+        border: none;
+        border-radius: 3px;
+        font-size: 12px;
+        text-align: center;
+        color: #fff;
+        background: #ee8a65;

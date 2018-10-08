@@ -1,0 +1,85 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9909639,40.733317 ]
+    },
+    "properties": {
+    "Location":"Strand Bookstore",
+    "Address":"828 Broadway, New York, NY 10003",
+    "City":"New York",
+    "Country":"US",
+    "Description":"",
+    "Photo":"",
+    "Type":"Bookstore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9982713,40.7233716 ]
+    },
+    "properties": {
+    "Location":"McNally Jackson Independent Booksellers, Prince Street, New York, NY",
+    "Address":"52 Prince St, New York, NY 10012",
+    "City":"New York",
+    "Country":"US",
+    "Description":"",
+    "Photo":"",
+    "Type":"Bookstore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.998679,40.724569 ]
+    },
+    "properties": {
+    "Location":"Housing Works Bookstore Cafe, Crosby Street, New York, NY",
+    "Address":"126 Crosby St, New York, NY 10012",
+    "City":"New York",
+    "Country":"US",
+    "Description":"",
+    "Photo":"",
+    "Type":"Bookstore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0526368,40.7531188 ]
+    },
+    "properties": {
+    "Location":"New York Public Library",
+    "Address":"476 5th Ave, New York, NY 10018",
+    "City":"New York",
+    "Country":"US",
+    "Description":"",
+    "Photo":"",
+    "Type":"Library"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9835911,40.7492258 ]
+    },
+    "properties": {
+    "Location":"The Morgan Library & Museum",
+    "Address":"225 Madison Ave, New York, NY 10016",
+    "City":"New York",
+    "Country":"US",
+    "Description":"",
+    "Photo":"",
+    "Type":"Library"
+    }
+  }
+]
+}

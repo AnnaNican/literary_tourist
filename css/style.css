@@ -1,0 +1,106 @@
+/*
+Tutorial Name: Full Page Animated Transition
+Author: Samuel Dalusung
+*/
+
+
+/* GENERAL STYLES
+-------------------------------------------------*/
+
+body {
+width: 100%;
+}
+
+
+h1 {
+    font-family: 'Raleway';
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-top: 120px;
+}
+
+
+/* PAGES
+-------------------------------------------------*/
+
+#main-page {
+    height: 25px;
+    width: 375px;
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    background-color: white;
+    display: none;
+}
+
+
+#next-page {
+    height: 25px;
+    width: 375px;
+	position: absolute;
+	top: 0; bottom: 0; left: 0; right: 0;
+	margin: auto;
+    background-color: black;
+	display: none;
+}
+
+.maincontent, .nextcontent {
+	padding-top: 40px;
+    display: none;
+}
+
+a.back{
+    font-family: 'Lato';
+    font-size: 20px;
+    color: #dfdfdf;
+    text-decoration: none;
+    text-align: center;
+    width: 20%;
+    margin: 25px auto 30px auto;
+    display: block;
+}
+
+
+
+a.mainlink, a.nextlink {
+    font-family: 'Lato';
+    color: black;
+    border: 3px solid black;
+    padding: 15px 10px;
+    display: block;
+    text-align: center;
+    margin: 25px auto;
+    width: 13%;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+a.mainlink:hover, a.nextlink:hover{
+    background: #fff;
+    color: #575757;
+} 
+
+.nextcontent h1 {
+    color: white;
+}
+
+
+/* MAPBOX
+-------------------------------------------------*/
+
+
+.geocoder {
+        position:absolute;
+        z-index:1;
+        width:50%;
+        left:50%;
+        margin-left:-25%;
+        top:20px;
+    }
+
+.mapboxgl-ctrl-geocoder { min-width:100%; }

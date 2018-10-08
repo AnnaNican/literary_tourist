@@ -1,0 +1,1799 @@
+entity,name,type,salience
+Harry Potter,"https://bookriot.com/tag/harry-potter/"">Harry Potter",WORK_OF_ART,0.042221032
+anything,anything,OTHER,0.024561552
+script,script,WORK_OF_ART,0.021512082
+class,class,OTHER,0.016531924
+class,class,OTHER,0.013848669
+class,class,OTHER,0.0130376145
+class,class,OTHER,0.012560993
+Scotland,"https://bookriot.com/tag/scotland/"">Scotland</a",LOCATION,0.012548119
+property,property,OTHER,0.011151633
+class,class,OTHER,0.009699335
+javascript,https://connect.facebook.net/en_US/fbevents.js,OTHER,0.009047453
+name,name,OTHER,0.0078351265
+bookriot.com\/,https://bookriot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbookriot.com%2F2017%2F11%2F12%2Fliterary-tourism-magical-harry-potter-guidebook-scotland-england%2F&#038;format=xml,OTHER,0.007147736
+function,__gaTrackerIsOptedOut,OTHER,0.006651004
+Literary Tourism: A Magical Harry Potter Guidebook,Literary Tourism: A Magical Harry Potter Guidebook,OTHER,0.0058708484
+getElementsByTagName,el = document.getElementsByTagName,OTHER,0.0057715457
+createElement,createElement,WORK_OF_ART,0.0056761266
+class,class,OTHER,0.0054568984
+type,type,OTHER,0.0052410117
+switch,textBaseline,OTHER,0.0051460383
+parentNode.insertBefore,parentNode.insertBefore,OTHER,0.0049206032
+script,script,WORK_OF_ART,0.0048041004
+application,application,OTHER,0.004706454
+div,div,OTHER,0.0045978306
+alt,alt,OTHER,0.0043297783
+id,id,OTHER,0.0042573973
+div,div,OTHER,0.0040739346
+https://www.facebook.com/BookRiot/,https://www.facebook.com/tr?id=729442010451189&ev=PageView&noscript=1,OTHER,0.0040532816
+category,category,OTHER,0.0038383964
+__gaTracker,__gaTracker,WORK_OF_ART,0.003491734
+li,li,OTHER,0.0032410081
+content,content,OTHER,0.003232384
+href,href,OTHER,0.003179146
+Leah Rachel von Essen,Leah Rachel von Essen,PERSON,0.0031721443
+style,style,OTHER,0.0031102858
+li,li,OTHER,0.0028121334
+Literary Tourism: A Magical Harry Potter Guidebook,Literary Tourism: A Magical Harry Potter Guidebook,WORK_OF_ART,0.0026481696
+viewBox,viewBox,OTHER,0.0024751674
+css,css,OTHER,0.0023248547
+fa-2,fa-2,OTHER,0.002324003
+twentyseventeen-section-title,twentyseventeen-section-title,OTHER,0.002290669
+href,Mystery/Thriller<,OTHER,0.0022474446
+category,category,OTHER,0.0021098827
+Mystery/Thriller<,Mystery/Thriller<,OTHER,0.0020879295
+https,https,OTHER,0.0020675813
+SearchAction,SearchAction,OTHER,0.0019934294
+__gaTracker,__gaTracker,OTHER,0.0019711363
+og,og,OTHER,0.0019516133
+src,src,OTHER,0.0019182225
+viewport,viewport,WORK_OF_ART,0.0019105438
+viewport,viewport,WORK_OF_ART,0.0019105438
+https,https,OTHER,0.0017733156
+https,https,OTHER,0.0017733156
+rss+xml,xml+oembed,OTHER,0.0017664494
+href,href,OTHER,0.0017628069
+href,href,OTHER,0.0017628069
+href,href,OTHER,0.0017628069
+href,href,OTHER,0.0017628069
+href,href,OTHER,0.0017628069
+toDataURL,toDataURL,OTHER,0.001757674
+https,https,OTHER,0.0017534823
+https,https,OTHER,0.0017534823
+data-id,data-id,OTHER,0.0017295157
+type,type,OTHER,0.0017087583
+data-value,data-value,OTHER,0.0017052146
+div,div,OTHER,0.0016813248
+head,head,OTHER,0.0016715636
+display,display,OTHER,0.0016633281
+itemprop,itemprop,OTHER,0.0016530558
+book,book,WORK_OF_ART,0.0016339718
+M35,M35,CONSUMER_GOOD,0.001616322
+toDataURL,toDataURL,OTHER,0.0015663662
+script,script,WORK_OF_ART,0.0015514892
+type,type,OTHER,0.0015498996
+type,type,OTHER,0.0015498996
+type,type,OTHER,0.0015419534
+script,script,WORK_OF_ART,0.0015353148
+script,script,WORK_OF_ART,0.0015341353
+type,type,OTHER,0.0015320004
+content,content,OTHER,0.0015284593
+content,content,OTHER,0.0015284593
+content,content,OTHER,0.0015284593
+content,content,OTHER,0.0015284593
+script type,script type,OTHER,0.0015254796
+content,content,OTHER,0.0015228951
+type,type,OTHER,0.0015206272
+type,type,OTHER,0.0015206272
+script type,script type,OTHER,0.0015206272
+content,content,OTHER,0.0015185932
+content,content,OTHER,0.0015185932
+content,content,OTHER,0.0015185932
+content,content,OTHER,0.0015185932
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015150873
+content,content,OTHER,0.0015121294
+id,id,OTHER,0.001486448
+prefix,prefix,OTHER,0.0014861667
+content,content,OTHER,0.0014619227
+BOOK RIOT,"https://bookriot.com/book-group-resources/"">Book Group Resources<",WORK_OF_ART,0.0014395107
+font-weight,font-weight,OTHER,0.0014347748
+itemprop,itemprop,OTHER,0.0013970184
+stylesheet,stylesheet,OTHER,0.0013860429
+text,text,OTHER,0.0013411359
+text,text,OTHER,0.0013342595
+width,width,OTHER,0.0013314228
+text,text,OTHER,0.0013158042
+width,width,OTHER,0.001312107
+width,width,OTHER,0.001312107
+width,width,OTHER,0.001311254
+text,text,OTHER,0.0013052372
+text,text,OTHER,0.0013025505
+div,div,OTHER,0.0012993041
+title,title,OTHER,0.0012943883
+title,title,OTHER,0.0012943883
+title,title,OTHER,0.0012943883
+content,END Sailthru Horizon Meta Information,OTHER,0.0012938643
+title,title,OTHER,0.0012877515
+title,title,OTHER,0.0012877515
+icon,icon,WORK_OF_ART,0.0012854595
+title,title,OTHER,0.0012794383
+title,title,OTHER,0.001269939
+title,title,OTHER,0.001269939
+title,title,OTHER,0.001269939
+fbq,PageView,OTHER,0.0012593087
+height,height,OTHER,0.0012546043
+literary-tourism,literary-tourism,OTHER,0.0012502295
+height,height,OTHER,0.0012388212
+height,height,OTHER,0.0012388212
+height,height,OTHER,0.0012380158
+fa-2,fa-2,OTHER,0.0012120298
+fillText,fillText,OTHER,0.0012108111
+baseUrl,baseUrl,OTHER,0.0011863435
+alt,alt,OTHER,0.0011750605
+disableStr,disableStr,OTHER,0.0011536322
+none,none,OTHER,0.0011365607
+none,none,OTHER,0.0011289762
+charset,charset,OTHER,0.0011240059
+lightbox,hideCloseButtonOnMobile,WORK_OF_ART,0.0011045445
+display,display,OTHER,0.0011035881
+Harry Potter Studio Tour,Harry Potter Studio Tour,EVENT,0.0011027226
+name,name,OTHER,0.001096267
+name,name,OTHER,0.001096267
+name,name,OTHER,0.001096267
+name,name,OTHER,0.0010845526
+https://bookriot.com/feed/atom/,https://bookriot.com/feed/atom/,OTHER,0.0010666229
+https://bookriot.com/xmlrpc.php,https://bookriot.com/xmlrpc.php,OTHER,0.0010666229
+image,image,WORK_OF_ART,0.0010649114
+image,image,OTHER,0.0010594506
+image,image,WORK_OF_ART,0.0010594506
+image,image,WORK_OF_ART,0.0010594506
+image,image,WORK_OF_ART,0.0010573817
+en_US,en_US,WORK_OF_ART,0.0010541406
+http:\/\/schema.org,http:\/\/schema.org,OTHER,0.0010498138
+path,path,OTHER,0.0010481293
+images,images,WORK_OF_ART,0.0010455521
+images,images,WORK_OF_ART,0.0010455521
+property,property,OTHER,0.0010398232
+property,property,OTHER,0.0010398232
+forceSSL,forceSSL,OTHER,0.0010379095
+property,property,OTHER,0.0010360371
+property,property,OTHER,0.0010331098
+property,property,OTHER,0.0010331098
+property,property,OTHER,0.0010331098
+property,property,OTHER,0.0010307243
+property,property,OTHER,0.0010307243
+property,property,OTHER,0.0010307243
+property,property,OTHER,0.0010307243
+property,property,OTHER,0.0010307243
+property,property,OTHER,0.0010307243
+property,property,OTHER,0.0010307243
+property,property,OTHER,0.0010307243
+/\/bookriot.com,/\/bookriot.com,OTHER,0.001022299
+d,d,OTHER,0.0010164656
+class,class,OTHER,0.0010161448
+class,class,OTHER,0.0010160754
+class,class,OTHER,0.0010158692
+d,d,PERSON,0.0010151085
+twitter,twitter,OTHER,0.0010091006
+twitter,twitter,OTHER,0.0010091006
+twitter,twitter,OTHER,0.0010091006
+icon,icon,WORK_OF_ART,0.0010074266
+data-value,data-value,OTHER,0.0010018158
+Function,Function,OTHER,0.0009603944
+window,window,OTHER,0.000957462
+function,function,OTHER,0.000957462
+function,function,OTHER,0.000957462
+function,function,OTHER,0.00095662475
+function d,function d,OTHER,0.0009551077
+function,function,OTHER,0.0009551077
+script,script,WORK_OF_ART,0.0009422843
+Young Adult,Young Adult,PERSON,0.0009301098
+og,og,OTHER,0.00092256925
+og,og,OTHER,0.00092256925
+b,b,OTHER,0.0009207185
+b,b,OTHER,0.00091942085
+og,og,OTHER,0.0009192099
+b,b,OTHER,0.000918823
+og,og,OTHER,0.0009166126
+og,og,OTHER,0.0009166126
+og,og,OTHER,0.0009166126
+og,og,OTHER,0.0009166126
+og,og,OTHER,0.00091449596
+og,og,OTHER,0.00091449596
+og,og,OTHER,0.00091449596
+og,og,OTHER,0.00091449596
+og,og,OTHER,0.00091449596
+og,og,OTHER,0.00091449596
+og,og,OTHER,0.00091271015
+Hogwarts,Hogwarts,OTHER,0.0009078798
+css,css,OTHER,0.00090314634
+@type,@type,OTHER,0.00090305426
+trackable,trackable,OTHER,0.00089651655
+trackable,trackable,OTHER,0.00089639873
+article,article,WORK_OF_ART,0.00089524296
+tag,tag,OTHER,0.00089524296
+article,article,WORK_OF_ART,0.00089524296
+tag,tag,OTHER,0.00089524296
+article,article,WORK_OF_ART,0.00089524296
+article,article,WORK_OF_ART,0.00089524296
+article,article,WORK_OF_ART,0.00089524296
+tag,tag,OTHER,0.00089524296
+article,article,WORK_OF_ART,0.00089524296
+article,article,WORK_OF_ART,0.00089524296
+url,url,OTHER,0.00089524296
+url,url,OTHER,0.00089349475
+midst,midst,OTHER,0.00088411855
+var,var,OTHER,0.0008834979
+xml,xml,OTHER,0.0008659666
+xml,xml,OTHER,0.0008659666
+query-input,query-input,OTHER,0.0008523186
+class,class,OTHER,0.0008427786
+class,class,OTHER,0.0008425437
+class,class,OTHER,0.0008425437
+tour guide,tour guide,PERSON,0.0008346312
+style,style,OTHER,0.0008303551
+site,site,OTHER,0.00081535755
+site,site,OTHER,0.0008100929
+document,document,WORK_OF_ART,0.00079823175
+div,div,OTHER,0.0007969161
+section,section,OTHER,0.000783219
+everything,everythingExceptFlag,OTHER,0.0007778227
+audiobooks,audiobooks,WORK_OF_ART,0.0007744041
+application,application,OTHER,0.00076709106
+application,application,OTHER,0.00076709106
+creator,creator,PERSON,0.000763157
+CDATA,CDATA,ORGANIZATION,0.0007530459
+Analytics tracking,Analytics tracking,OTHER,0.0007525985
+72x72\,72x72\,OTHER,0.00074007595
+RSS 2.0,RSS 2.0,OTHER,0.00073787227
+RSS,RSS,OTHER,0.00073787227
+UA-25481245-1,UA-25481245-1,OTHER,0.00073435635
+media,media,OTHER,0.000734088
+locale,locale,OTHER,0.0007293479
+site,site,OTHER,0.00072650483
+novels,novels,WORK_OF_ART,0.0007194737
+push,push,OTHER,0.0007186687
+@bookriot,@bookriot,OTHER,0.00071348785
+svg,svg,OTHER,0.0007035369
+corner,corner,LOCATION,0.0007024688
+mystery-thriller,mystery-thriller,WORK_OF_ART,0.0006995028
+span,span,OTHER,0.00069337594
+dns-prefetch,dns-prefetch,OTHER,0.00069274975
+dns-prefetch,dns-prefetch,OTHER,0.00069274975
+dns-prefetch,dns-prefetch,OTHER,0.00069274975
+dns-prefetch,dns-prefetch,OTHER,0.00069274975
+dns-prefetch,dns-prefetch,OTHER,0.00069274975
+top,top,OTHER,0.0006862163
+https,https,OTHER,0.00066604634
+https,https,OTHER,0.0006657016
+https,https,OTHER,0.0006657016
+href,href,OTHER,0.0006645696
+href,href,OTHER,0.0006645696
+href,href,OTHER,0.0006645696
+href,href,OTHER,0.000664211
+href,href,OTHER,0.000664211
+https,https,OTHER,0.00066388806
+href,href,OTHER,0.0006635371
+landmarks,landmarks,LOCATION,0.0006633453
+landscapes,landscapes,OTHER,0.0006633453
+landscapes,landscapes,OTHER,0.0006633453
+landmarks,landmarks,LOCATION,0.0006633453
+https,https,OTHER,0.00066286704
+href,href,OTHER,0.0006587534
+href,href,OTHER,0.0006587534
+href,href,OTHER,0.0006587534
+href,href,OTHER,0.0006587534
+emoji,emoji,OTHER,0.0006531298
+emoji,emoji,OTHER,0.0006531298
+function e,function e,OTHER,0.0006517851
+j.toDataURL,j.toDataURL,PERSON,0.00064078136
+description,description,OTHER,0.0006287018
+fift,fift,OTHER,0.0006278155
+description,description,OTHER,0.00062464207
+description,description,OTHER,0.00062464207
+set,set,OTHER,0.0006150225
+set,set,WORK_OF_ART,0.0006150225
+set,set,OTHER,0.0006150225
+href,href,OTHER,0.00059503515
+heather,heather,OTHER,0.00058410387
+mountains,mountains,LOCATION,0.00058410387
+card,card,OTHER,0.00058410387
+script,script,OTHER,0.00058300974
+script,script,WORK_OF_ART,0.0005826951
+li,li,OTHER,0.00058263174
+li,li,OTHER,0.00058263174
+li,li,OTHER,0.00058263174
+script,script,WORK_OF_ART,0.00058239355
+UTF-8,UTF-8,OTHER,0.00058207975
+DOCTYPE,DOCTYPE,WORK_OF_ART,0.00058207975
+Cards,Cards,OTHER,0.00058197667
+script,script,WORK_OF_ART,0.0005812984
+script,script,WORK_OF_ART,0.0005812984
+script,script,WORK_OF_ART,0.0005810485
+script,script,WORK_OF_ART,0.00058080687
+script,script,WORK_OF_ART,0.00058080687
+plugin,plugin,OTHER,0.00058033207
+script,script,WORK_OF_ART,0.0005795051
+script,script,WORK_OF_ART,0.0005793091
+script,script,WORK_OF_ART,0.0005791183
+publisher,publisher,ORGANIZATION,0.0005789917
+script,script,WORK_OF_ART,0.00057875115
+SEO plugin,SEO plugin,OTHER,0.0005778609
+plugin,plugin,OTHER,0.0005760221
+cookie,cookie,OTHER,0.0005739243
+type,type,OTHER,0.00057323196
+type,type,OTHER,0.00057323196
+type,type,OTHER,0.00057323196
+type,type,OTHER,0.00057323196
+type,type,OTHER,0.00057292264
+script type,script type,OTHER,0.00057292264
+type,type,OTHER,0.00057292264
+script type,script type,OTHER,0.00057292264
+script type,script type,OTHER,0.00057292264
+script type,script type,OTHER,0.00057292264
+script type,script type,OTHER,0.00057292264
+cookie,cookie,OTHER,0.0005728034
+o,o,OTHER,0.0005728034
+script type,script type,OTHER,0.00057262613
+script type,script type,OTHER,0.00057262613
+script type,script type,OTHER,0.00057262613
+script type,script type,OTHER,0.00057262613
+type,type,OTHER,0.0005723414
+type,type,OTHER,0.0005723414
+o,o,OTHER,0.00057183416
+o,o,OTHER,0.00057183416
+arguments,arguments,OTHER,0.00057183416
+type,type,OTHER,0.0005715493
+script type,script type,OTHER,0.0005706134
+case,case,OTHER,0.0005705892
+return,return,OTHER,0.0005705892
+case,case,OTHER,0.0005702182
+type,type,OTHER,0.0005699841
+type,type,OTHER,0.0005687011
+content,content,OTHER,0.0005673305
+class,class,OTHER,0.0005672501
+class,class,OTHER,0.0005672501
+class,class,OTHER,0.0005672501
+class,class,OTHER,0.0005672501
+class,class,OTHER,0.0005672501
+content,content,OTHER,0.00056705903
+content,content,OTHER,0.00056705903
+content,content,OTHER,0.00056705903
+content,content,OTHER,0.00056705903
+content,content,OTHER,0.00056705903
+content,content,OTHER,0.00056679756
+class,class,OTHER,0.000566754
+class,class,OTHER,0.000566754
+class,class,OTHER,0.0005666352
+class,class,OTHER,0.0005665184
+tour,tour,EVENT,0.00056623627
+class,class,OTHER,0.000566179
+class,class,OTHER,0.00056554534
+class,class,OTHER,0.0005651524
+class,class,OTHER,0.0005651524
+class,class,OTHER,0.00056505745
+class,class,OTHER,0.0005649638
+class,class,OTHER,0.00056469
+content,content,OTHER,0.00056389044
+class,class,OTHER,0.0005611976
+class,class,OTHER,0.0005611976
+class,class,OTHER,0.0005611976
+class,class,OTHER,0.0005611976
+class,class,OTHER,0.00056105084
+class,class,OTHER,0.0005606282
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.00056049274
+class,class,OTHER,0.0005602295
+id,id,OTHER,0.0005525892
+id,id,OTHER,0.0005525892
+id,id,OTHER,0.0005525892
+id,id,OTHER,0.0005525892
+id,id,OTHER,0.000552291
+data-sumo-site-id,data-sumo-site-id,OTHER,0.00055096706
+Social Share,SSocial Share,OTHER,0.00054778636
+src,src,OTHER,0.000538556
+src,src,OTHER,0.00053827727
+src,src,OTHER,0.0005368108
+div,div,OTHER,0.0005365275
+div,div,OTHER,0.0005365275
+div,div,OTHER,0.0005362888
+div,div,OTHER,0.0005360583
+div,div,OTHER,0.00053572666
+div,div,OTHER,0.0005356197
+div,div,OTHER,0.0005356197
+div,div,OTHER,0.0005355143
+div,div,OTHER,0.00053541065
+div,div,OTHER,0.00053530856
+div,div,OTHER,0.000535208
+div,div,OTHER,0.000535208
+div,div,OTHER,0.0005350113
+div,div,OTHER,0.000534915
+div,div,OTHER,0.000534915
+div,div,OTHER,0.00053482014
+div,div,OTHER,0.00053482014
+div,div,OTHER,0.00053482014
+div,div,OTHER,0.00053482014
+div,div,OTHER,0.00053454336
+div,div,OTHER,0.00053454336
+div,div,OTHER,0.00053436495
+div,div,OTHER,0.0005340218
+atom,atom,OTHER,0.000533981
+div,div,OTHER,0.00053080264
+travels,travels,EVENT,0.00052781164
+travels,travels,EVENT,0.00052781164
+WebSite,WebSite,OTHER,0.0005255641
+json,json,OTHER,0.0005255641
+#website,#website,OTHER,0.0005255641
+data-cfasync,data-cfasync,OTHER,0.0005238916
+users,users,PERSON,0.00052256
+adventure,adventure,OTHER,0.0005211599
+adventure,adventure,OTHER,0.0005211599
+source,source,OTHER,0.0005196829
+BODY,BODY,OTHER,0.0005189852
+class,class,OTHER,0.0005162455
+class,class,OTHER,0.00051616976
+class,class,OTHER,0.00051609497
+class,class,OTHER,0.0005158041
+class,class,OTHER,0.0005158041
+class,class,OTHER,0.0005157334
+class,class,OTHER,0.0005155942
+class,class,OTHER,0.00051552575
+class,class,OTHER,0.00051552575
+class,class,OTHER,0.000515458
+class,class,OTHER,0.000515458
+class,class,OTHER,0.00051539094
+class,class,OTHER,0.00051525893
+stylesheet,stylesheet,OTHER,0.0005152495
+stylesheet,stylesheet,OTHER,0.0005152495
+stylesheet,stylesheet,OTHER,0.0005152495
+stylesheet,stylesheet,OTHER,0.0005152495
+style,style,OTHER,0.0005152495
+class,class,OTHER,0.0005150658
+class,class,OTHER,0.0005150658
+class,class,OTHER,0.0005150658
+class,class,OTHER,0.0005150027
+stylesheet,stylesheet,OTHER,0.0005149715
+class,class,OTHER,0.0005145774
+style,style,OTHER,0.000513737
+script data,script data,OTHER,0.000513737
+__gaTrackerOptout,__gaTrackerOptout,WORK_OF_ART,0.00051245216
+__gaTracker,__gaTracker,WORK_OF_ART,0.00051119184
+trip,trip,EVENT,0.00050873193
+emoji4,emoji4,OTHER,0.0005066427
+width,width,OTHER,0.0004993078
+text,text,OTHER,0.00049599254
+text,text,OTHER,0.00049599254
+text,text,OTHER,0.00049599254
+text,text,OTHER,0.00049599254
+text,text,OTHER,0.0004957249
+text,text,OTHER,0.0004957249
+text,text,OTHER,0.0004957249
+text,text,OTHER,0.0004957249
+text,text,OTHER,0.0004957249
+text,text,OTHER,0.0004954683
+text,text,OTHER,0.0004954683
+text,text,OTHER,0.0004954683
+text,text,OTHER,0.0004954683
+text,text,OTHER,0.00049453654
+text,text,OTHER,0.0004937268
+text,text,OTHER,0.0004931822
+scpt,scpt,OTHER,0.00049284886
+text,text,OTHER,0.00049236947
+div,div,OTHER,0.00048857974
+div,div,OTHER,0.00048835715
+div,div,OTHER,0.00048835715
+div,div,OTHER,0.00048835715
+div,div,OTHER,0.00048814234
+div,div,OTHER,0.00048814234
+div,div,OTHER,0.00048786722
+div,div,OTHER,0.00048773419
+div,div,OTHER,0.00048766873
+div,div,OTHER,0.00048760395
+div,div,OTHER,0.0004875399
+div,div,OTHER,0.0004874137
+div,div,OTHER,0.00048729006
+div,div,OTHER,0.0004871689
+div,div,OTHER,0.0004870501
+""".svg",``.svg,ORGANIZATION,0.0004858567
+mustard,mustard,OTHER,0.00048261925
+sailthru.title,sailthru.title,OTHER,0.00047772535
+attachEvent,attachEvent,EVENT,0.0004774684
+title,title,OTHER,0.00047491406
+literary-tourism,literary-tourism,OTHER,0.00047411746
+height,height,OTHER,0.00047141057
+href,"https://bookriot.com/affiliate-disclosure/"">Affiliate Disclosure<",OTHER,0.0004711224
+close-button,close-button,OTHER,0.00047092442
+height,height,OTHER,0.0004682639
+height,height,OTHER,0.00046811358
+pingback,pingback,OTHER,0.00046715362
+endif,endif,OTHER,0.00046475747
+instagram,subscribe-button,OTHER,0.00046249892
+span,span,OTHER,0.00046195407
+span,span,OTHER,0.00046195407
+span,span,OTHER,0.00046195407
+span,span,OTHER,0.00046195407
+span,span,OTHER,0.00046195407
+span,span,OTHER,0.00046183073
+span,span,OTHER,0.00046183073
+BookRiot_Master,BookRiot_Master,OTHER,0.00046047277
+ld,ld,OTHER,0.00045978982
+tracking,tracking,OTHER,0.0004566574
+concatemoji,concatemoji,OTHER,0.00045464456
+canvas,canvas,OTHER,0.0004537084
+Quantcast Tag,Quantcast Tag,ORGANIZATION,0.00045156453
+wpemoji&&f.twemoji&&,wpemoji&&f.twemoji&&,OTHER,0.00045079848
+json+oembed,json+oembed,OTHER,0.00045009807
+subscribe-button twitter,subscribe-button twitter,OTHER,0.00044836864
+site-bookriot,site-bookriot,OTHER,0.0004471364
+BookRiot_Visitors_perpetual,BookRiot_Visitors_perpetual,PERSON,0.0004447737
+href,href,OTHER,0.00044350026
+href,href,OTHER,0.00044350026
+href,href,OTHER,0.00044208887
+href,href,OTHER,0.00044208887
+href,href,OTHER,0.00044208887
+href,href,OTHER,0.00044201154
+href,href,OTHER,0.00043888504
+href,href,OTHER,0.00043888504
+href,href,OTHER,0.00043811288
+href,href,OTHER,0.00043811288
+href,href,OTHER,0.00043811288
+href,href,OTHER,0.00043811288
+href,href,OTHER,0.00043801093
+href,href,OTHER,0.00043801093
+@bookriot,@bookriot,OTHER,0.0004345057
+data-categories,data-categories,OTHER,0.0004316833
+category,category,OTHER,0.00043156295
+category,category,OTHER,0.00043156295
+@id,@id,OTHER,0.00042986136
+@context,@context,OTHER,0.00042986136
+@type,@type,OTHER,0.00042986136
+title,title,OTHER,0.00042278733
+javascript,javascript,OTHER,0.00041484844
+itemprop,itemprop,OTHER,0.00041440604
+"https://bookriot.com/advertise/"">Advertise</a></li","https://bookriot.com/advertise/"">Advertise</a></li",OTHER,0.00041304537
+thought,thought,OTHER,0.00041294174
+itemtype,itemtype,OTHER,0.00041271924
+itemtype,itemtype,OTHER,0.00041265422
+itemprop,itemprop,OTHER,0.00041265422
+itemprop,itemprop,OTHER,0.00041259
+itemtype,itemtype,OTHER,0.00041259
+itemtype,itemtype,OTHER,0.00041259
+everything,everything,OTHER,0.0004116167
+name,name,OTHER,0.00040686288
+name,name,OTHER,0.00040666817
+name,name,OTHER,0.00040666817
+name,name,OTHER,0.00040666817
+name,name,OTHER,0.00040666817
+name,name,OTHER,0.00040666817
+name,name,OTHER,0.00040648063
+name,name,OTHER,0.00040648063
+https://bookriot.com/listen,https://bookriot.com/listen,OTHER,0.00040479613
+_wpemojiSettings,window._wpemojiSettings,OTHER,0.0004039525
+href,href,OTHER,0.00040368058
+England,England&amp,ORGANIZATION,0.0004033521
+http://b,http://edge,OTHER,0.0003927914
+li,li,OTHER,0.00039233745
+li,li,OTHER,0.00039233745
+li,li,OTHER,0.00039233745
+li,li,OTHER,0.00039224778
+li,li,OTHER,0.00039224778
+li,li,OTHER,0.00039224778
+https://secure,https://secure,OTHER,0.00039220508
+li,li,OTHER,0.00039099948
+li,li,OTHER,0.00039099948
+li,li,OTHER,0.00039099948
+li,li,OTHER,0.00039099948
+li,li,OTHER,0.0003909311
+li,li,OTHER,0.0003909311
+li,li,OTHER,0.00038827173
+li,li,OTHER,0.00038816582
+li,li,OTHER,0.00038816582
+li,li,OTHER,0.00038816582
+li,li,OTHER,0.00038806218
+li,li,OTHER,0.00038806218
+li,li,OTHER,0.00038806218
+li,li,OTHER,0.00038806218
+li,li,OTHER,0.00038806218
+li,li,OTHER,0.00038806218
+li,li,OTHER,0.00038806218
+li,li,OTHER,0.00038796072
+li,li,OTHER,0.0003874829
+li,li,OTHER,0.0003874829
+li,li,OTHER,0.00038739273
+li,li,OTHER,0.00038739273
+li,li,OTHER,0.00038739273
+script,script,WORK_OF_ART,0.00038737248
+clearRect,clearRect,CONSUMER_GOOD,0.00038603623
+MonsterInsights,MonsterInsights,OTHER,0.0003845339
+Google Analytics,Google Analytics,OTHER,0.0003845339
+class,class,OTHER,0.0003824544
+class,class,OTHER,0.0003824251
+class,class,OTHER,0.0003823096
+class,class,OTHER,0.0003822248
+class,class,OTHER,0.0003822248
+class,class,OTHER,0.000382114
+class,class,OTHER,0.000382114
+class,class,OTHER,0.0003820867
+class,class,OTHER,0.00038205954
+class,class,OTHER,0.00038205954
+class,class,OTHER,0.00038205954
+class,class,OTHER,0.00038177066
+class,class,OTHER,0.00038177066
+input type,input type,OTHER,0.0003813237
+input type,input type,OTHER,0.0003813237
+type,type,OTHER,0.00038112633
+gfx-container,gfx-container,OTHER,0.00037855006
+container,container,CONSUMER_GOOD,0.0003782591
+container,container,OTHER,0.0003782591
+alt,alt,OTHER,0.0003782209
+container,container,OTHER,0.00037798498
+menu,menu,OTHER,0.00037789415
+content,content,OTHER,0.0003774207
+content,content,OTHER,0.0003774207
+content,content,OTHER,0.0003774207
+content,content,OTHER,0.00037736198
+content,content,OTHER,0.00037736198
+content,content,OTHER,0.00037736198
+itemprop,itemprop,OTHER,0.00037635607
+Contributors,Contributors,PERSON,0.00037449825
+book,book,WORK_OF_ART,0.00036786505
+id,id,OTHER,0.00036785728
+book,book,WORK_OF_ART,0.00036777946
+name,name,OTHER,0.00036751872
+BOOK RIOT &raquo; Feed,BOOK RIOT &raquo; Feed,OTHER,0.00036697168
+indexOf,indexOf,OTHER,0.00036685893
+id,id,OTHER,0.00036437096
+id,id,OTHER,0.0003642846
+id,id,OTHER,0.0003642846
+id,id,OTHER,0.0003642846
+id,id,OTHER,0.0003642846
+id,id,OTHER,0.0003642846
+id,id,OTHER,0.00036419983
+function,function,OTHER,0.00036311362
+function,function,OTHER,0.00036311362
+window,window,OTHER,0.00036290896
+div,div,OTHER,0.0003621156
+div,div,OTHER,0.00036202584
+div,div,OTHER,0.00036185147
+div,div,OTHER,0.00036185147
+div,div,OTHER,0.00036179484
+div,div,OTHER,0.00036176675
+div,div,OTHER,0.00036165622
+div,div,OTHER,0.00036157502
+function,function,OTHER,0.00036153762
+div,div,OTHER,0.0003615217
+div,div,OTHER,0.00036149527
+div,div,OTHER,0.000361469
+div,div,OTHER,0.000361469
+div,div,OTHER,0.0003614429
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.0003613654
+div,div,OTHER,0.00036133986
+div,div,OTHER,0.00036131448
+div,div,OTHER,0.00036126413
+div,div,OTHER,0.00036123916
+div,div,OTHER,0.00036123916
+div,div,OTHER,0.00036123916
+div,div,OTHER,0.00036123916
+div,div,OTHER,0.00036123916
+function,function,OTHER,0.00036098153
+function,function,OTHER,0.0003607272
+window,window,OTHER,0.0003606052
+sans-serif,sans-serif,OTHER,0.0003563759
+Julien Maury,Julien Maury,PERSON,0.000354638
+pages,pages,OTHER,0.0003537833
+Sci-Fi/Fantasy,Sci-Fi/Fantasy<,OTHER,0.0003523217
+b,b,OTHER,0.00034773583
+Twitter Cards,http://twitter.com/bookriot,OTHER,0.00034572123
+content,content,OTHER,0.00034530248
+container,container,OTHER,0.00034519695
+content,content,OTHER,0.00034422133
+GoogleAnalyticsObject,GoogleAnalyticsObject,OTHER,0.000339032
+css,css,OTHER,0.00033569324
+css,css,OTHER,0.00033569324
+css,css,OTHER,0.00033569324
+none,none,OTHER,0.00033569324
+id,id,OTHER,0.0003356538
+data-id,data-id,OTHER,0.000335604
+var,var,OTHER,0.00033551207
+var,var,OTHER,0.0003353384
+none,none,OTHER,0.00033470773
+var,var,OTHER,0.00033442472
+Tag,Tag,OTHER,0.0003342901
+var,var,OTHER,0.00033379105
+none,none,OTHER,0.0003327549
+width,width,OTHER,0.0003316488
+width,width,OTHER,0.00033159717
+text,text,OTHER,0.0003297683
+background,#F8F8F8,OTHER,0.00032931656
+readyCallback=function,readyCallback=function,CONSUMER_GOOD,0.0003285206
+display,display,OTHER,0.00032814176
+display,display,OTHER,0.00032717842
+display,display,OTHER,0.0003252695
+background,background,OTHER,0.00032021952
+title,title,OTHER,0.000319104
+data-title,data-title,OTHER,0.00031890976
+data-title,data-title,OTHER,0.00031884704
+menu-nav-button,menu-nav-button,OTHER,0.00031703763
+search-button,search-button,OTHER,0.00031614158
+subscribe-panel-button,subscribe-panel-button,OTHER,0.0003160847
+store-button,store-button,OTHER,0.0003160847
+store-button,store-button,OTHER,0.0003160847
+Atom 0.3,Atom 0.3,OTHER,0.0003160516
+close-button,close-button,OTHER,0.00031602863
+twentyseventeen-section-title,twentyseventeen-section-title,OTHER,0.00031572074
+IE 7,IE 7,CONSUMER_GOOD,0.0003144304
+height,height,OTHER,0.0003131177
+height,height,OTHER,0.00031306897
+style,style,OTHER,0.00031297098
+Yoast SEO,Yoast SEO,OTHER,0.00031239973
+style,style,OTHER,0.0003120218
+style,style,OTHER,0.00031191335
+Yoast,Yoast,PERSON,0.00031106934
+over-container,over-container,OTHER,0.00030914764
+over-media,over-media,OTHER,0.00030914764
+"57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447","57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447",WORK_OF_ART,0.00030715446
+getContext&&j.getContext,getContext&&j.getContext,WORK_OF_ART,0.0003069547
+everything,everything,OTHER,0.00030340548
+width,width,OTHER,0.00030328694
+document,document,WORK_OF_ART,0.0003030556
+textwidget,textwidget,OTHER,0.00030127302
+document,document,WORK_OF_ART,0.00030113175
+href,href,OTHER,0.000298991
+href,href,OTHER,0.00029892309
+href,href,OTHER,0.00029890073
+href,href,OTHER,0.00029849933
+M3,M3,CONSUMER_GOOD,0.00029746673
+Glenfinnan Viaduct,Glenfinnan Viaduct,LOCATION,0.00029608057
+head,head,OTHER,0.00029127186
+title,title,OTHER,0.00029043556
+data-title,data-title,OTHER,0.00029039616
+title,title,OTHER,0.0002903572
+data-category,data-category,OTHER,0.0002902828
+data-category,data-category,OTHER,0.00029022194
+title,title,OTHER,0.00029016833
+data-category,data-category,OTHER,0.0002901621
+data-category,data-category,OTHER,0.00029004528
+title,title,OTHER,0.00029002404
+title,title,OTHER,0.0002897845
+category,category,OTHER,0.00028961228
+category,category,OTHER,0.00028961228
+share-button,share-button,OTHER,0.00028816418
+share-button,share-button,OTHER,0.00028808805
+butter,butter,OTHER,0.00028759582
+category,category,OTHER,0.0002875133
+height,height,OTHER,0.00028589874
+height,height,OTHER,0.00028564362
+icon,icon,WORK_OF_ART,0.000284608
+icon,icon,WORK_OF_ART,0.00028435903
+supports,supports,OTHER,0.00028415275
+comment-count-icon,comment-count-icon,WORK_OF_ART,0.00028412635
+padding,padding,OTHER,0.00028364945
+margin,margin,OTHER,0.00028364945
+createElement,createElement,CONSUMER_GOOD,0.0002825776
+application,application,OTHER,0.00028140724
+icon,icon,WORK_OF_ART,0.0002810851
+nectar2017\/lib\,nectar2017\/lib\,OTHER,0.0002808908
+London,London,LOCATION,0.00027975
+itemprop,itemprop,OTHER,0.00027945757
+Share,Share,OTHER,0.0002764733
+Posts,Posts,WORK_OF_ART,0.00027633578
+Loch Eilt,Loch Eilt,LOCATION,0.00027380072
+media,media,OTHER,0.000272843
+media,media,OTHER,0.000272843
+media,media,OTHER,0.000272843
+media,media,OTHER,0.00027269576
+media,media,OTHER,0.00027269576
+potentialAction,potentialAction,OTHER,0.00027213595
+_comscore.push,_comscore.push,EVENT,0.00027181196
+getElementsByTagName,getElementsByTagName,OTHER,0.0002711109
+push,push,OTHER,0.0002711109
+push,push,EVENT,0.0002711109
+n.,n.,PERSON,0.0002711109
+End,End,OTHER,0.00027084973
+svgExt,svgExt,OTHER,0.00026909035
+svgUrl,svgUrl,OTHER,0.00026909035
+String.fromCharCode,String.fromCharCode,OTHER,0.00026889532
+tag-scotland,tag-scotland,LOCATION,0.00026710596
+tag-scotland,tag-scotland,LOCATION,0.00026631902
+path,path,OTHER,0.00026466878
+path,path,OTHER,0.00026461674
+data-category,data-category,OTHER,0.0002644495
+data-category,data-category,OTHER,0.0002644495
+data-category,data-category,OTHER,0.0002644495
+path,path,OTHER,0.00026436814
+class,class,OTHER,0.00026425827
+<button class,<button class,PERSON,0.0002641888
+class,class,OTHER,0.0002641888
+data-category,data-category,OTHER,0.0002641842
+class,class,PERSON,0.0002641546
+class,class,PERSON,0.0002641546
+data-category,data-category,OTHER,0.000264148
+class,class,OTHER,0.00026412078
+data-category,data-category,OTHER,0.00026407672
+data-category,data-category,OTHER,0.00026404162
+class,class,OTHER,0.00026403766
+class,class,OTHER,0.00026402128
+data-category,data-category,OTHER,0.00026400693
+class,class,OTHER,0.00026398877
+class,class,OTHER,0.00026398877
+class,class,OTHER,0.00026397262
+data-category,data-category,OTHER,0.0002639726
+image,image,WORK_OF_ART,0.00026387916
+script,script,WORK_OF_ART,0.00026252025
+script,script,WORK_OF_ART,0.00026252025
+setTimeout,setTimeout,OTHER,0.000262118
+http://schema.org/Article,https://schema.org/Organization,WORK_OF_ART,0.00026203116
+nectar,nectar,OTHER,0.0002610887
+"https://store.bookriot.com/"">Shop The Book Riot Store","https://store.bookriot.com/"">Shop The Book Riot Store",WORK_OF_ART,0.0002600833
+input type,input type,OTHER,0.00025803345
+input type,input type,OTHER,0.00025803345
+input type,input type,OTHER,0.00025803345
+type,type,OTHER,0.00025801294
+type,type,OTHER,0.00025801294
+share-button show-comments,share-button show-comments,WORK_OF_ART,0.00025749012
+Comments,Comments,WORK_OF_ART,0.00025749012
+share-button show-comments,share-button show-comments,WORK_OF_ART,0.00025743947
+train trip,train trip,EVENT,0.00025608196
+ad-container,ad-container,OTHER,0.00025538998
+container,container,OTHER,0.0002552832
+part,letter,OTHER,0.00025484548
+alt,alt,OTHER,0.00025406
+alt,alt,OTHER,0.00025319046
+data-value,data-value,OTHER,0.00025008447
+share-button twitter,share-button twitter,OTHER,0.00025003206
+div,div,OTHER,0.00024991107
+div,div,OTHER,0.00024984608
+div,div,OTHER,0.00024984608
+div,div,OTHER,0.00024984608
+div,div,OTHER,0.00024979818
+div,div,OTHER,0.00024979818
+div,div,OTHER,0.00024978237
+div,div,OTHER,0.00024964364
+div,div,OTHER,0.00024961363
+div,div,OTHER,0.00024959873
+value,value,OTHER,0.00024950682
+value,value,OTHER,0.00024950682
+name,name,OTHER,0.00024869145
+name,name,OTHER,0.00024869145
+name,name,OTHER,0.00024869145
+name,name,OTHER,0.00024869145
+name,name,OTHER,0.00024867165
+data-id,data-id,OTHER,0.00024860425
+js,js,OTHER,0.00024801365
+author,author,PERSON,0.00024764342
+name,name,OTHER,0.0002476281
+n,n,OTHER,0.00024665566
+version,version,CONSUMER_GOOD,0.00024657225
+tour,tour,EVENT,0.0002447697
+function,function,OTHER,0.00024120048
+path,path,OTHER,0.00024100437
+https://insiders.bookriot.com/?utm_source=BR&utm_medium=inside_page&utm_campaign=Insiders_BR_inside_page,https://insiders.bookriot.com/?utm_source=BR&utm_medium=inside_page&utm_campaign=Insiders_BR_inside_page,OTHER,0.0002395845
+sizes,sizes,OTHER,0.0002387398
+PDT,PDT,ORGANIZATION,0.00023790305
+newsletters,newsletters,WORK_OF_ART,0.00023506249
+Oxford,Oxford,LOCATION,0.00023470297
+show-comments,show-comments,WORK_OF_ART,0.00023446747
+flag,flag,OTHER,0.00023408145
+flag,flag,OTHER,0.00023393663
+flag,flag,OTHER,0.00023393663
+border,border,LOCATION,0.00023366685
+sailthru.description,sailthru.description,OTHER,0.0002331921
+wordpress,wordpress,OTHER,0.00023298083
+fbq=function,fbq=function,ORGANIZATION,0.000232262
+f.fbq,f.fbq,OTHER,0.000232262
+t,t,OTHER,0.00023218345
+style,style,OTHER,0.00023208212
+style,style,OTHER,0.00023208212
+style,style,OTHER,0.00023208212
+data,data,OTHER,0.00023208212
+style,style,OTHER,0.0002320627
+style,style,OTHER,0.0002320627
+style,style,OTHER,0.00023200517
+style,style,OTHER,0.00023200517
+Segment Pixel,Segment Pixel,ORGANIZATION,0.00023195977
+Segment Pixel,Segment Pixel,OTHER,0.00023195977
+fb,fb,OTHER,0.00023188889
+Audiobooks,Audiobooks,CONSUMER_GOOD,0.00023162147
+childrens,childrens,PERSON,0.00023162147
+Children,Children,PERSON,0.00023162147
+alt,alt,OTHER,0.00023078751
+data-value,data-value,OTHER,0.00022782825
+data-value,data-value,OTHER,0.00022782825
+data-value,data-value,OTHER,0.00022782825
+data-value,data-value,OTHER,0.00022759967
+share-button twitter,share-button twitter,OTHER,0.00022756847
+data-value,data-value,OTHER,0.00022744694
+data-value,data-value,OTHER,0.00022741735
+width,width,OTHER,0.00022490072
+width,width,OTHER,0.00022490072
+url,url,OTHER,0.00022391455
+url,url,OTHER,0.00022377138
+article,article,WORK_OF_ART,0.00022372522
+data-url,data-url,OTHER,0.00022363514
+data-url,data-url,OTHER,0.00022359117
+text,text,OTHER,0.00022324326
+url,url,OTHER,0.00022296792
+url,url,OTHER,0.00022293323
+font-weight,font-weight,OTHER,0.00021971148
+font-weight,font-weight,OTHER,0.00021968626
+http://www.amazon.com/gp/product/0545139708/ref=as_li_tf_il?ie=UTF8&amp;tag=boorio-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399349&amp;creativeASIN=0545139708,http://www.amazon.com/gp/product/0545139708/ref=as_li_tf_il?ie=UTF8&amp;tag=boorio-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399349&amp;creativeASIN=0545139708,OTHER,0.0002187425
+searchform,searchform,OTHER,0.00021827786
+search,search,OTHER,0.00021827786
+searchsubmit,searchsubmit,OTHER,0.00021827786
+load,load,OTHER,0.00021721116
+thumbnail readordead,thumbnail readordead,PERSON,0.00021663797
+data-sumo-platform,data-sumo-platform,OTHER,0.00021645137
+_qevents,_qevents,EVENT,0.0002160969
+part,part,OTHER,0.0002160969
+var elem,var elem,OTHER,0.00021593568
+return,return,OTHER,0.00021578354
+v,v,OTHER,0.00021578354
+arguments,arguments,OTHER,0.00021571055
+arguments,arguments,OTHER,0.00021571055
+data-title,data-title,OTHER,0.00021526057
+title,title,OTHER,0.00021504702
+title,title,OTHER,0.0002150324
+title,title,OTHER,0.00021501785
+title,title,OTHER,0.00021500338
+title,title,OTHER,0.00021498899
+fillText,fillText,OTHER,0.00021422403
+close-button,close-button,OTHER,0.00021345203
+social-buttons,social-buttons,OTHER,0.00021343735
+subscribe-button,subscribe-button,OTHER,0.00021336517
+xml,xml,OTHER,0.00021332625
+height,height,OTHER,0.0002123337
+line-height,line-height,OTHER,0.0002123337
+line-height,line-height,OTHER,0.00021231592
+line-height,line-height,OTHER,0.0002122633
+line-height,line-height,OTHER,0.0002122633
+background,background,OTHER,0.00021135219
+background,background,OTHER,0.00021119295
+xml,xml,OTHER,0.00021119295
+0S0,0S0,OTHER,0.00021084947
+share-button email,share-button email,WORK_OF_ART,0.00020781018
+svg,svg,OTHER,0.00020753265
+href,href,OTHER,0.00020640445
+href,href,OTHER,0.00020634168
+href,href,OTHER,0.00020634168
+href,href,OTHER,0.0002063293
+href,href,OTHER,0.0002063293
+href,href,OTHER,0.0002063293
+over-watch_split,over-watch_split,OTHER,0.00020584605
+over-shop,over-shop,OTHER,0.00020564126
+svg,svg,OTHER,0.00020564126
+over-links,over-links,OTHER,0.00020564126
+over-other,over-other,OTHER,0.00020564126
+over-insiders,over-insiders,OTHER,0.00020564126
+post,post,WORK_OF_ART,0.00020537156
+post-tags,post-tags,WORK_OF_ART,0.00020516185
+post-content,post-content,OTHER,0.00020505565
+post-navigation,post-navigation,OTHER,0.00020495366
+article,article,WORK_OF_ART,0.00020393002
+data-url,data-url,OTHER,0.00020363928
+none,none,OTHER,0.00020361194
+none,none,OTHER,0.0002035849
+none,none,OTHER,0.00020355814
+article,article,WORK_OF_ART,0.00020353166
+none,none,OTHER,0.00020353166
+post-title,post-title,WORK_OF_ART,0.00020340324
+trackable,trackable,OTHER,0.00020288631
+trackable,trackable,OTHER,0.0002028063
+disqus-comment-count,disqus-comment-count,OTHER,0.00020185165
+comment-count,comment-count,OTHER,0.00020185165
+form,form,OTHER,0.00020158995
+sidebar,sidebar,OTHER,0.00020141836
+thumbnail,thumbnail,WORK_OF_ART,0.0002014044
+journey,journey,EVENT,0.00020009896
+c0-4.3,c0-4.3,OTHER,0.0001998724
+display,display,OTHER,0.0001990314
+display,display,OTHER,0.00019900498
+display,display,OTHER,0.00019897881
+display,display,OTHER,0.00019895293
+Begin comScore Tag,Begin comScore Tag,OTHER,0.00019801405
+source,source,OTHER,0.00019755063
+f.wpemoji,f.wpemoji,OTHER,0.00019743928
+box-shadow,box-shadow,CONSUMER_GOOD,0.00019743928
+1em,1em,OTHER,0.00019743928
+f.concatemoji,f.concatemoji,OTHER,0.00019743928
+f.concatemoji,f.concatemoji,OTHER,0.00019743928
+1em,1em,OTHER,0.00019743928
+swipebox,swipebox,OTHER,0.00019733272
+ajaxurl,ajaxurl,OTHER,0.00019723056
+php,php,OTHER,0.00019723056
+previouspost,previouspost,WORK_OF_ART,0.00019723056
+dream,dream,OTHER,0.00019703813
+protocol,protocol,OTHER,0.00019669314
+c1,c1,OTHER,0.00019669314
+el,el,OTHER,0.00019661395
+protocol,protocol,OTHER,0.0001963906
+n.queue,n.queue,OTHER,0.00019618584
+section,section,OTHER,0.00019597574
+http://www.facebook.com/sharer.php?u=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/&amp;t=Literary Tourism: A Magical Harry Potter Guidebook,http://www.facebook.com/sharer.php?u=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/&amp;t=Literary Tourism: A Magical Harry Potter Guidebook,WORK_OF_ART,0.0001959557
+category,category,OTHER,0.00019582029
+readyCallback,readyCallback,CONSUMER_GOOD,0.00019432242
+readyState&&c.readyCallback,readyState&&c.readyCallback,PERSON,0.00019432242
+background,background,OTHER,0.00019409964
+thumbnail,thumbnail,OTHER,0.00019388435
+hiking backpack,hiking backpack,CONSUMER_GOOD,0.00019384288
+section,section,OTHER,0.00019364081
+_stq.push,clickTrackerInit,WORK_OF_ART,0.0001933326
+fans,fans,PERSON,0.00019270515
+icon,icon,WORK_OF_ART,0.00019159097
+icon,icon,WORK_OF_ART,0.00019155208
+icon,icon,WORK_OF_ART,0.00019153926
+svg,svg,OTHER,0.00018919136
+pinterest,pinterest,OTHER,0.00018916596
+tumblr,tumblr,OTHER,0.00018911599
+share-button email,share-button email,WORK_OF_ART,0.00018906704
+svg,svg,OTHER,0.00018904293
+xmlns,xmlns,OTHER,0.00018896275
+xmlns,xmlns,OTHER,0.00018896275
+xmlns,xmlns,OTHER,0.00018721413
+xmlns,xmlns,OTHER,0.00018707308
+sidebar,sidebar,OTHER,0.00018407435
+sidebar,sidebar,OTHER,0.00018407435
+sidebar,sidebar,OTHER,0.00018399338
+share-count,share-count,OTHER,0.00018388967
+comment-count,comment-count,OTHER,0.00018383951
+disqus-comment-count,disqus-comment-count,OTHER,0.00018383951
+link,link,OTHER,0.00018336996
+li,li,OTHER,0.00018249395
+li,li,OTHER,0.00018249395
+script,script,WORK_OF_ART,0.0001809922
+script,script,WORK_OF_ART,0.00018097075
+script,script,WORK_OF_ART,0.0001809601
+script,script,WORK_OF_ART,0.00018094949
+script,script,WORK_OF_ART,0.00018094949
+script,script,WORK_OF_ART,0.00018094949
+script,script,WORK_OF_ART,0.00018093894
+Masthead Email Share,Masthead Email Share,OTHER,0.00017991227
+everythingExceptFlag&&c.,everythingExceptFlag&&c.,OTHER,0.00017957177
+image,image,WORK_OF_ART,0.00017894249
+path,path,OTHER,0.00017863404
+sidebar widget_random_content_pro_widget,sidebar widget_random_content_pro_widget,OTHER,0.00017837837
+sidebar widget_nectar_site_sections,sidebar widget_nectar_site_sections,OTHER,0.00017837837
+type,type,OTHER,0.00017814408
+input type,input type,OTHER,0.00017814408
+menu,menu,OTHER,0.00017797752
+menu,menu,OTHER,0.00017797752
+script type,script type,OTHER,0.00017795623
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+script type,script type,OTHER,0.00017791423
+header,header,OTHER,0.00017790089
+scenes,scenes,WORK_OF_ART,0.00017779594
+GET,GET,OTHER,0.00017753194
+Mallaig,Mallaig,LOCATION,0.00017727488
+content,content,OTHER,0.00017660715
+container,container,OTHER,0.00017652776
+menu-footer-container,menu-footer-container,OTHER,0.00017641907
+The Books,The Books,WORK_OF_ART,0.00017511926
+relative,relative,OTHER,0.0001742274
+comments,comments,WORK_OF_ART,0.00017401688
+relative,relative,OTHER,0.00017389836
+show-comments,show-comments,WORK_OF_ART,0.0001738015
+COMMENTS,COMMENTS,WORK_OF_ART,0.00017378872
+search-bar,search-bar,OTHER,0.00017367289
+whiteout-bar,whiteout-bar,OTHER,0.00017367289
+search-bar,search-bar,OTHER,0.00017367289
+comments,comments,WORK_OF_ART,0.00017365288
+subscribe-button facebook,subscribe-button facebook,OTHER,0.00017362907
+Array,Array,OTHER,0.00017303323
+length,length,OTHER,0.00017303323
+onreadystatechange,onreadystatechange,OTHER,0.00017282416
+em,em,OTHER,0.00017272675
+emoji,emoji,OTHER,0.00017272675
+selector,selector,PERSON,0.00017263353
+pdf,pdf,OTHER,0.00017263353
+int,int,OTHER,0.00017263353
+tgz,tgz,OTHER,0.00017263353
+zip,zip,OTHER,0.00017263353
+doc,doc,PERSON,0.00017263353
+animation,animation,OTHER,0.00017254415
+themes,themes,OTHER,0.00017254415
+generator,generator,OTHER,0.00017245834
+sailthru.tags,sailthru.tags,OTHER,0.0001723758
+margin,margin,OTHER,0.00017228661
+padding,padding,OTHER,0.00017228661
+amphtml,amphtml,OTHER,0.00017221963
+wpstats,wpstats,OTHER,0.00017221963
+xmlns,xmlns,OTHER,0.00017193181
+name,name,OTHER,0.0001716942
+id,id,OTHER,0.00017156728
+id,id,OTHER,0.00017156728
+id,id,OTHER,0.00017156728
+id,id,OTHER,0.00017152642
+id,id,OTHER,0.00017152642
+script id,script id,OTHER,0.00017151632
+alt,alt,OTHER,0.00017133626
+br,br,OTHER,0.0001712625
+http://pinterest.com/pin/create/button/?url=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/&amp;media=https://2982-presscdn-29-70-pagely.netdna-ssl.com/wp-content/uploads/2017/11/jacobite-steam-train-1-1024x683-1.jpg&amp;description=Literary Tourism: A Magical Harry Potter Guidebook,http://pinterest.com/pin/create/button/?url=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/&amp;media=https://2982-presscdn-29-70-pagely.netdna-ssl.com/wp-content/uploads/2017/11/jacobite-steam-train-1-1024x683-1.jpg&amp;description=Literary Tourism: A Magical Harry Potter Guidebook,OTHER,0.00017055069
+https://reddit.com/submit?url=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/amp;title=Literary Tourism: A Magical Harry Potter Guidebook,https://reddit.com/submit?url=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/amp;title=Literary Tourism: A Magical Harry Potter Guidebook,WORK_OF_ART,0.00017052804
+https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/&amp;title=Literary Tourism: A Magical Harry Potter Guidebook,https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://bookriot.com/2017/11/12/literary-tourism-magical-harry-potter-guidebook-scotland-england/&amp;title=Literary Tourism: A Magical Harry Potter Guidebook,WORK_OF_ART,0.00017050563
+value,value,OTHER,0.00016883275
+value,value,OTHER,0.00016883275
+value,value,OTHER,0.00016883275
+value,value,OTHER,0.00016883275
+value,value,OTHER,0.00016881933
+class,class,OTHER,0.00016839211
+class,class,OTHER,0.0001682532
+class,class,OTHER,0.00016810713
+class,class,OTHER,0.00016804533
+class,class,OTHER,0.00016788418
+src,src,OTHER,0.00016724039
+src,src,OTHER,0.00016724039
+src,src,OTHER,0.00016724039
+space,space,LOCATION,0.00016531111
+placeholder,placeholder,OTHER,0.00016506432
+action,action,OTHER,0.00016506432
+mobile,mobile,OTHER,0.00016497888
+space,space,OTHER,0.00016378135
+version,version,CONSUMER_GOOD,0.00016378135
+This Post,This Post,OTHER,0.00016371583
+space,space,LOCATION,0.00016365794
+version,version,CONSUMER_GOOD,0.00016365794
+font-weight,font-weight,OTHER,0.00016344432
+hall,hall,LOCATION,0.0001625393
+BookRiotInsiders,BookRiotInsiders,OTHER,0.0001610709
+text-align,text-align,OTHER,0.00016056918
+font-size,font-size,OTHER,0.00016055573
+target,target,OTHER,0.00016055573
+text-align,text-align,OTHER,0.00016051593
+font-size,font-size,OTHER,0.00016051593
+font-size,font-size,OTHER,0.00016051593
+genre-newsletter genre-newsletter,genre-newsletter genre-newsletter,WORK_OF_ART,0.00016048984
+newsletter,newsletter,WORK_OF_ART,0.00016046407
+newsletter,newsletter,WORK_OF_ART,0.0001604135
+genre-newsletter,genre-newsletter,WORK_OF_ART,0.00016038869
+Page,Page,OTHER,0.00016025745
+style,style,OTHER,0.00015995321
+facebookShare,facebookShare,OTHER,0.0001594186
+div,div,OTHER,0.00015939293
+"https://bookriot.com/about/community-guidelines/"">Community Guidelines<","https://bookriot.com/about/community-guidelines/"">Community Guidelines<",WORK_OF_ART,0.00015895112
+relative,relative,OTHER,0.00015838044
+relative,relative,OTHER,0.00015819685
+corner,corner,LOCATION,0.00015810176
+https://www.youtube.com/user/BookRiotVideo,https://www.youtube.com/user/BookRiotVideo,OTHER,0.00015701943
+logo,logo,WORK_OF_ART,0.0001558929
+data-identifier,data-identifier,OTHER,0.00015566402
+xlink,xlink,OTHER,0.00015566402
+data-identifier,data-identifier,OTHER,0.0001556334
+Children,Children,PERSON,0.00015543163
+childrens,childrens,PERSON,0.00015543163
+search-field search-autocomplete,search-field search-autocomplete,OTHER,0.00015543163
+Audiobooks,Audiobooks,CONSUMER_GOOD,0.00015543163
+Comics,Comics,WORK_OF_ART,0.00015543163
+Romance,Romance,OTHER,0.00015540443
+romance,romance,OTHER,0.00015540443
+logo,logo,WORK_OF_ART,0.00015517542
+twitterShare,twitterShare,OTHER,0.00015467427
+shop,shop,LOCATION,0.00015460924
+Comics,Comics,WORK_OF_ART,0.00015434716
+romance,romance,OTHER,0.00015430506
+Romance,Romance,OTHER,0.00015430506
+science-fiction-fantasy,science-fiction-fantasy,OTHER,0.00015430506
+xlink,xlink,OTHER,0.00015422351
+xlink,xlink,OTHER,0.00015410731
+Newsletter Signup,Newsletter Signup,OTHER,0.00015407009
+text,text,OTHER,0.00015397424
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+text,text,OTHER,0.0001539379
+addEventListener,addEventListener,PERSON,0.00015371357
+url,url,OTHER,0.0001511988
+none,none,OTHER,0.00015118613
+none,none,OTHER,0.00015102884
+data-url,data-url,OTHER,0.00015094926
+article,article,WORK_OF_ART,0.00015091615
+mobile,mobile,OTHER,0.00015069977
+space,space,LOCATION,0.00015041174
+share-button-toggle,share-button-toggle,OTHER,0.00015041174
+version,version,CONSUMER_GOOD,0.00015041174
+srcset,srcset,OTHER,0.00015035535
+author,author,PERSON,0.00015033693
+content-area,content-area,LOCATION,0.0001503006
+walk,walk,EVENT,0.00015023
+title,title,OTHER,0.0001488102
+title,title,OTHER,0.00014880035
+title,title,OTHER,0.00014869522
+title,title,OTHER,0.00014868595
+title,title,OTHER,0.00014867674
+title,title,OTHER,0.00014866756
+title,title,OTHER,0.00014865842
+title,title,OTHER,0.00014864934
+title,title,OTHER,0.00014864029
+display,display,OTHER,0.0001477973
+subscribe-button,subscribe-button,OTHER,0.0001476862
+/button,/button,OTHER,0.00014764737
+display,display,OTHER,0.00014763116
+social-buttons,social-buttons,OTHER,0.00014758133
+subscribe-button,subscribe-button,OTHER,0.00014752655
+Subscribe button,Subscribe button,OTHER,0.00014747334
+Search,Search,WORK_OF_ART,0.00014570789
+C35,C35,CONSUMER_GOOD,0.00014459123
+steam train,steam train,OTHER,0.00014453541
+method,method,OTHER,0.00014440376
+background,#FFF,OTHER,0.00014439419
+fullwidth,fullwidth,OTHER,0.00014430477
+background,background,OTHER,0.00014422879
+publisher,publisher,ORGANIZATION,0.00014416574
+background,background,OTHER,0.00014393842
+auto,auto,OTHER,0.00014192634
+fifth,fifth,LOCATION,0.00014179632
+post,post,WORK_OF_ART,0.00014175838
+data-identifier,data-identifier,OTHER,0.00014174527
+xlink,xlink,OTHER,0.00014163407
+post,post,OTHER,0.00014154881
+love,love,OTHER,0.00014146294
+set,set,OTHER,0.0001414467
+text-overflow,text-overflow,OTHER,0.00014042466
+overflow,overflow,OTHER,0.00014042466
+Email,Email,WORK_OF_ART,0.00014036811
+email,email,WORK_OF_ART,0.00014036811
+footer,footer,OTHER,0.00014010986
+subscribe-button pinterest,subscribe-button pinterest,OTHER,0.00014008126
+"https://bookriot.com/join-us/"">Join Us","https://bookriot.com/join-us/"">Join Us",OTHER,0.00013995921
+books,books,WORK_OF_ART,0.0001390881
+locations,locations,LOCATION,0.00013901395
+https://www.snapchat.com/add/bookriot,https://www.snapchat.com/add/bookriot,OTHER,0.00013828595
+WordPress 4.8.3,WordPress 4.8.3,OTHER,0.0001380801
+point,point,OTHER,0.00013741196
+form,form,OTHER,0.0001363758
+comment-count,comment-count,OTHER,0.00013626221
+disqus-comment-count,disqus-comment-count,OTHER,0.00013626221
+sidebar,sidebar,OTHER,0.00013620329
+Jacobite Steam Train,Jacobite Steam Train,OTHER,0.00013580412
+highlands,highlands,LOCATION,0.00013566451
+places,places,LOCATION,0.00013386532
+page,Lily Potter&,OTHER,0.0001330403
+icon,icon,WORK_OF_ART,0.00013244324
+rgba,rgba,OTHER,0.00013204376
+sidebar widget_random_content_pro_widget,sidebar widget_random_content_pro_widget,OTHER,0.00013200735
+DOMReady,DOMReady,PERSON,0.0001319492
+comments-header,comments-header,OTHER,0.00013194242
+format-standard,format-standard,OTHER,0.00013187643
+label,label,OTHER,0.00013185664
+label,label,OTHER,0.00013185664
+label,label,OTHER,0.00013185664
+widget_nectar_podcast_subscribe,widget_nectar_podcast_subscribe,PERSON,0.00013182822
+fullwidth,fullwidth,OTHER,0.00013181774
+share-button reddit,share-button reddit,OTHER,0.00013165324
+mailto,mailto,OTHER,0.00013158226
+icon-envelope,icon-envelope,WORK_OF_ART,0.00013155556
+format-standard,format-standard,OTHER,0.00013148786
+mountains,mountains,LOCATION,0.00013145669
+heather,heather,OTHER,0.00013145669
+nav-content-right,nav-content-right,OTHER,0.00013140382
+top_takeover_ads,top_takeover_ads,OTHER,0.00013128728
+Podcast,Podcast,WORK_OF_ART,0.0001303121
+SiteSectionSidebar,SiteSectionSidebar,OTHER,0.00013026314
+C2,C2,OTHER,0.00013024599
+points,points,OTHER,0.00013021391
+M100,M100,OTHER,0.00013018245
+javascript,javascript,OTHER,0.00012948444
+javascript,javascript,OTHER,0.00012948444
+Duke Humphries Library,Duke Humphries Library,LOCATION,0.00012883088
+elem.,elem.,OTHER,0.00012780046
+padding,padding,OTHER,0.00012775631
+padding,padding,OTHER,0.00012775631
+margin,margin,OTHER,0.00012775631
+margin,margin,OTHER,0.00012774562
+padding,padding,OTHER,0.00012774562
+padding,padding,OTHER,0.00012771395
+padding,padding,OTHER,0.00012749912
+subscribe-button youtube,subscribe-button youtube,OTHER,0.00012739307
+landscapes,landscapes,OTHER,0.00012479855
+path,path,OTHER,0.00012346619
+datetime,datetime,EVENT,0.000122848
+end,end,EVENT,0.000122848
+"https://bookriot.com/privacy/"">Privacy</a></li","https://bookriot.com/privacy/"">Privacy</a></li",OTHER,0.00012245227
+"https://bookriot.com/sitemap/"">Sitemap</a></li","https://bookriot.com/sitemap/"">Sitemap</a></li",OTHER,0.00012245227
+qacct,p-c54G_RnM5lvok,OTHER,0.00012242617
+jQuery,jQuery,OTHER,0.00012239728
+postID,postID,OTHER,0.000121300574
+articleBody,articleBody,WORK_OF_ART,0.0001203391
+Subscribe,Subscribe,OTHER,0.00012008625
+subscribe-button facebook,subscribe-button facebook,OTHER,0.00012005594
+status,status,OTHER,0.00011993944
+300x600,300x600,OTHER,0.00011992143
+Insiders,Insiders,PERSON,0.00011992143
+icon-instagram,icon-instagram,OTHER,0.00011971803
+mailto,mailto,OTHER,0.00011970514
+icon-envelope,icon-envelope,WORK_OF_ART,0.00011968973
+Social Networks,Social Networks,OTHER,0.00011967447
+photo,photo,WORK_OF_ART,0.00011962961
+status,status,OTHER,0.000119586046
+ferry,ferry,OTHER,0.00011954372
+dozens,dozens,PERSON,0.00011952987
+epilogue,epilogue,WORK_OF_ART,0.00011951615
+BookRiot_DoubleOptIn,BookRiot_DoubleOptIn,OTHER,0.00011936115
+one,one,OTHER,0.00011882188
+top,top,OTHER,0.00011759427
+margin-top,margin-top,OTHER,0.00011759427
+margin-top,margin-top,OTHER,0.000117555275
+relative,relative,OTHER,0.000117400195
+relative,relative,OTHER,0.00011739156
+inbound_paths,inbound_paths,LOCATION,0.00011679001
+home_url,home_url,LOCATION,0.00011679001
+wp-admin\/admin-ajax.php,wp-admin\/admin-ajax.php,OTHER,0.00011672955
+BEGIN Sailthru Horizon Meta Information,BEGIN Sailthru Horizon Meta Information,OTHER,0.00011661565
+comScore,comScore,ORGANIZATION,0.0001163646
+callMethod,callMethod,OTHER,0.0001161505
+callMethod.,callMethod.,OTHER,0.000116111216
+script,script,WORK_OF_ART,0.0001155798
+script,script,WORK_OF_ART,0.000115490955
+bar bar3,bar bar3,LOCATION,0.00011526105
+bar bar2,bar bar2,LOCATION,0.00011526105
+bar bar1,bar bar1,LOCATION,0.00011526105
+Book Riot,Book Riot,WORK_OF_ART,0.000115166025
+st0,st0,OTHER,0.00011493526
+thumbnail allthebooks,thumbnail allthebooks,OTHER,0.000114061426
+thumbnail heyya,thumbnail heyya,OTHER,0.00011403097
+thumbnail thepodcast,thumbnail thepodcast,WORK_OF_ART,0.00011403097
+thumbnail sffyeah,thumbnail sffyeah,OTHER,0.00011403097
+p,p,OTHER,0.0001132595
+function,function,OTHER,0.00011264243
+function,function,OTHER,0.000112629205
+abs,abs,OTHER,0.0001123737
+pinterestShare,pinterestShare,OTHER,0.00011195642
+Sharebar Pinterest,Sharebar Pinterest,OTHER,0.00011195642
+Sharebar Tumblr,http://bookriot.tumblr.com/,OTHER,0.000111926835
+tumblrShare,tumblrShare,OTHER,0.000111926835
+Sharebar Email,Sharebar Email,WORK_OF_ART,0.000111912275
+word-wrap,word-wrap,OTHER,0.0001117559
+action,action,OTHER,0.00011170103
+action,action,OTHER,0.00011169209
+mustard,mustard,OTHER,0.00011159736
+content-area,content-area,LOCATION,0.00011155633
+mobile,mobile,OTHER,0.00011154025
+comments-area,comments-area,LOCATION,0.00011148539
+disqus-body,disqus-body,OTHER,0.00011148539
+comments-area,comments-area,LOCATION,0.00011148539
+couple,couple,PERSON,0.00011103511
+id,id,OTHER,0.00010954788
+id,id,OTHER,0.00010946367
+#BLHarryPotter,#BLHarryPotter,WORK_OF_ART,0.00010587042
+break-word,break-word,OTHER,0.000105233994
+magic,magic,OTHER,0.000105216546
+sans-serif,sans-serif,OTHER,0.00010520791
+book lovers,book lovers,PERSON,0.00010511644
+data-identifier,data-identifier,OTHER,0.00010506911
+300px,300px,OTHER,0.00010491101
+social-share-stack,social-share-stack,OTHER,0.00010483497
+caption,caption,OTHER,0.000104735416
+aisle,aisle,LOCATION,0.00010458057
+pub,pub,LOCATION,0.000104568455
+nofollow,nofollow,OTHER,0.00010455645
+paperbacks,paperbacks,OTHER,0.00010455645
+Greyfriars’ Kirkyard,Greyfriars' Kirkyard,LOCATION,0.000104483326
+none,none,OTHER,0.00010420653
+tag,tag,OTHER,0.00010420653
+var,var,OTHER,0.000104181934
+view,view,OTHER,0.00010417586
+h++,h++,OTHER,0.00010240809
+DOMContentLoaded,DOMContentLoaded,WORK_OF_ART,0.00010228436
+internal_label,internal_label,OTHER,0.00010217152
+is_debug_mode,is_debug_mode,OTHER,0.00010217152
+hash_tracking,hash_tracking,OTHER,0.00010217152
+download_extensions,download_extensions,OTHER,0.00010217152
+rlArgs,rlArgs,OTHER,0.00010217152
+woocommerce_gallery,woocommerce_gallery,WORK_OF_ART,0.00010211863
+shortlink,shortlink,OTHER,0.00010206784
+57e4798a737294361a40e8dc21f7283b8fe570eb63c3d4852842d72968055dbb,57e4798a737294361a40e8dc21f7283b8fe570eb63c3d4852842d72968055dbb,OTHER,0.000101926555
+em,em,OTHER,0.00010041723
+width,width,OTHER,9.860889e-05
+max-width,max-width,OTHER,9.860889e-05
+width,width,OTHER,9.860889e-05
+width,width,OTHER,9.860889e-05
+datePublished,datePublished,ORGANIZATION,9.783053e-05
+dateModified,dateModified,OTHER,9.781866e-05
+center,center,OTHER,9.7775686e-05
+font-family,font-family,PERSON,9.77675e-05
+center,center,OTHER,9.7743265e-05
+font-family,font-family,PERSON,9.7743265e-05
+fans,fans,PERSON,9.7743265e-05
+font-family,font-family,PERSON,9.7743265e-05
+AuthorPageview,AuthorPageview,WORK_OF_ART,9.759249e-05
+fullwidth,fullwidth,OTHER,9.757187e-05
+anyone,anyone,PERSON,9.747567e-05
+tumblr,tumblr,OTHER,9.6946904e-05
+svg,svg,OTHER,9.6921416e-05
+email,email,WORK_OF_ART,9.691513e-05
+email,email,OTHER,9.691513e-05
+email,email,WORK_OF_ART,9.691513e-05
+email,email,WORK_OF_ART,9.691513e-05
+mobile-footer,mobile-footer,OTHER,9.688417e-05
+subscribe-button pinterest,subscribe-button pinterest,OTHER,9.6859956e-05
+tumblr,tumblr,OTHER,9.684211e-05
+form,form,OTHER,9.416741e-05
+studio tour,studio tour,EVENT,9.393105e-05
+Shop,Shop,ORGANIZATION,9.385548e-05
+attraction,attraction,OTHER,9.171106e-05
+block,block,OTHER,8.892526e-05
+color,color,OTHER,8.891781e-05
+exhibition,exhibition,EVENT,8.891042e-05
+Deathly Hallows,Deathly Hallows,WORK_OF_ART,8.890165e-05
+list,list,OTHER,8.889577e-05
+color,color,OTHER,8.889577e-05
+exhibition,exhibition,EVENT,8.889577e-05
+Terms of Service,Terms of Service,WORK_OF_ART,8.88253e-05
+conversation,conversation,OTHER,8.8818495e-05
+prev,prev,OTHER,8.871488e-05
+book,book,WORK_OF_ART,8.87142e-05
+Discussion,Discussion,OTHER,8.870258e-05
+books,books,WORK_OF_ART,8.866062e-05
+bookstore,bookstore,LOCATION,8.862628e-05
+Christ Church,Christ Church,LOCATION,8.8470406e-05
+subscribe-button youtube,subscribe-button youtube,OTHER,8.808698e-05
+café,café,LOCATION,8.793995e-05
+Conversation,Conversation,OTHER,8.757848e-05
+Masthead,Masthead,OTHER,8.5661464e-05
+Riot,Riot,ORGANIZATION,8.514042e-05
+subscribe-button snapchat,subscribe-button snapchat,OTHER,8.480645e-05
+subscribe-button snapchat,subscribe-button snapchat,OTHER,8.471523e-05
+push,push,OTHER,8.469486e-05
+_stq.push,_stq.push,EVENT,8.466994e-05
+col-md-4,col-md-4,LOCATION,8.386591e-05
+turret,turret,OTHER,8.242698e-05
+shooting locations,shooting locations,LOCATION,8.1895836e-05
+Tweet This Post,Tweet This Post,WORK_OF_ART,8.1414335e-05
+&nbsp,&nbsp,OTHER,8.072713e-05
+names,names,OTHER,8.058121e-05
+Pin This Post,Pin This Post,OTHER,7.993765e-05
+woody path,woody path,OTHER,7.872892e-05
+Sharpie,Sharpie,OTHER,7.847073e-05
+Clachaig Inn,Clachaig Inn,LOCATION,7.8161866e-05
+Edinburgh,Edinburgh,LOCATION,7.809781e-05
+Sharebar Reddit,Sharebar Reddit,ORGANIZATION,7.791717e-05
+redditShare,redditShare,OTHER,7.791717e-05
+mainEntityOfPage,mainEntityOfPage,OTHER,7.785727e-05
+position,position,OTHER,7.779446e-05
+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5,bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5,OTHER,7.779446e-05
+text-decoration,text-decoration,OTHER,7.778795e-05
+myth,myth,OTHER,7.777505e-05
+bio,bio,OTHER,7.777505e-05
+margin-bottom,margin-bottom,OTHER,7.7768666e-05
+ellipsis,ellipsis,OTHER,7.7768666e-05
+Suggestions,Suggestions,OTHER,7.7768666e-05
+nowrap,nowrap,OTHER,7.7768666e-05
+M5.1,M5.1,LOCATION,7.7755365e-05
+template,template,OTHER,7.7743534e-05
+TBR,TBR,OTHER,7.7719036e-05
+bond,bond,OTHER,7.770106e-05
+reading habits,reading habits,OTHER,7.770106e-05
+keywords,keywords,OTHER,7.7689256e-05
+post-tags,post-tags,OTHER,7.7671815e-05
+mid_ads,mid_ads,OTHER,7.7637844e-05
+ways,ways,OTHER,7.759432e-05
+action,action,OTHER,7.7119796e-05
+input-wrap,input-wrap,OTHER,7.710976e-05
+"https://insiders.bookriot.com/?utm_source=BR&utm_medium=menu_link&utm_campaign=Insiders_BR_menu_link"">Join Insiders","https://insiders.bookriot.com/?utm_source=BR&utm_medium=menu_link&utm_campaign=Insiders_BR_menu_link"">Join Insiders",PERSON,7.704669e-05
+js,js,OTHER,7.7019315e-05
+js,js,OTHER,7.7019315e-05
+var js,var js,OTHER,7.7019315e-05
+body,body,OTHER,7.700131e-05
+face,face,OTHER,7.6576616e-05
+alt,alt,OTHER,7.544592e-05
+alt,alt,OTHER,7.538368e-05
+alt,alt,OTHER,7.531823e-05
+alt,alt,OTHER,7.529055e-05
+British Library,British Library,LOCATION,7.4581236e-05
+CACHEBUSTER,CACHEBUSTER,OTHER,7.3325704e-05
+@britishlibrary,@britishlibrary,OTHER,7.27058e-05
+newsletter-signup,newsletter-signup,OTHER,7.2619136e-05
+input-group,input-group,ORGANIZATION,7.2619136e-05
+controls-group,controls-group,ORGANIZATION,7.2619136e-05
+Newsletter Signup,Newsletter Signup,OTHER,7.2619136e-05
+rnmg-logo,rnmg-logo,OTHER,7.258649e-05
+font-weight,font-weight,OTHER,7.194009e-05
+font-weight,font-weight,OTHER,7.192395e-05
+font-weight,font-weight,OTHER,7.1884795e-05
+font-weight,font-weight,OTHER,7.1884795e-05
+windows,windows,OTHER,7.1869596e-05
+font-weight,font-weight,OTHER,7.1862094e-05
+window,window,OTHER,7.184727e-05
+font-weight,font-weight,OTHER,7.182549e-05
+font-weight,font-weight,OTHER,7.178344e-05
+font-weight,font-weight,OTHER,7.173675e-05
+font-weight,font-weight,OTHER,7.169237e-05
+line,line,OTHER,7.129236e-05
+sizes,sizes,OTHER,7.061431e-05
+location,location,LOCATION,7.056954e-05
+sizes,sizes,OTHER,7.055605e-05
+tour guide,tour guide,WORK_OF_ART,7.0054426e-05
+VIP pass,VIP pass,OTHER,6.9853304e-05
+ticket,ticket,OTHER,6.938395e-05
+b,b,OTHER,6.9333335e-05
+b,b,OTHER,6.9333335e-05
+b,b,OTHER,6.9295595e-05
+b,b,OTHER,6.923843e-05
+b,b,OTHER,6.923843e-05
+b,b,OTHER,6.9152884e-05
+b,b,OTHER,6.9152884e-05
+b,b,OTHER,6.91101e-05
+b,b,OTHER,6.91101e-05
+Harry&,Harry&,PERSON,6.8802794e-05
+Rowling,Rowling,PERSON,6.7913075e-05
+method,method,OTHER,6.7466644e-05
+newsletter-registration-btn,newsletter-registration-btn,OTHER,6.746224e-05
+H18c-0.2,H18c-0.2,PERSON,6.741897e-05
+M33,M33,LOCATION,6.741897e-05
+M18,M18,ORGANIZATION,6.741897e-05
+M18.3,M18.3,CONSUMER_GOOD,6.741897e-05
+96S152.,96S152.,OTHER,6.740269e-05
+Read Harder,Read Harder,OTHER,6.740269e-05
+part,part,OTHER,6.7386725e-05
+return,return,OTHER,6.737874e-05
+fb-root,fb-root,OTHER,6.737874e-05
+v,v,OTHER,6.73669e-05
+ocean views,ocean views,OTHER,6.643844e-05
+Cos,Cos,OTHER,6.5737106e-05
+platform.instagram.com/en_US/embeds.js,platform.instagram.com/en_US/embeds.js,OTHER,6.567143e-05
+line,line,OTHER,6.452412e-05
+arrival,arrival,EVENT,6.433703e-05
+backdrop,backdrop,OTHER,6.3427964e-05
+Kings Cross,Kings Cross,LOCATION,6.269345e-05
+Harry Potter: A History of Magic,Harry Potter: A History of Magic,WORK_OF_ART,6.227583e-05
+14px 20px 24px,14px 20px 24px,ORGANIZATION,6.208986e-05
+vcard fn,vcard fn,OTHER,6.193117e-05
+UK,UK,LOCATION,6.188712e-05
+Buy From Amazon,Buy From Amazon,OTHER,6.188001e-05
+entrance,entrance,OTHER,6.154984e-05
+novalidate,novalidate,OTHER,6.135965e-05
+inbox,inbox,OTHER,6.135965e-05
+scenery,scenery,OTHER,6.1197985e-05
+everything,everything,OTHER,5.9904214e-05
+sites,sites,LOCATION,5.985181e-05
+trip,trip,EVENT,5.8660324e-05
+walk,walk,OTHER,5.8620102e-05
+waterfall scenes,waterfall scenes,WORK_OF_ART,5.8201927e-05
+side scenes,side scenes,WORK_OF_ART,5.804e-05
+Section,Section,OTHER,5.8034835e-05
+scenes,scenes,WORK_OF_ART,5.8029706e-05
+scenes,scenes,WORK_OF_ART,5.8024612e-05
+scenes,scenes,WORK_OF_ART,5.8014528e-05
+Sign Up,Sign Up,OTHER,5.7824378e-05
+Sailthru.,Sailthru.,LOCATION,5.7283538e-05
+Sailthru,Sailthru,OTHER,5.7283538e-05
+hall,hall,LOCATION,5.636941e-05
+train,train,OTHER,5.621419e-05
+line,line,OTHER,5.6201792e-05
+train,train,OTHER,5.6171713e-05
+line,line,OTHER,5.602359e-05
+padding,padding,OTHER,5.6014112e-05
+margin,margin,OTHER,5.6014112e-05
+shop,shop,LOCATION,5.4948534e-05
+location,location,LOCATION,5.4072345e-05
+location,location,LOCATION,5.4025844e-05
+location,location,LOCATION,5.3966713e-05
+instagram-media,instagram-media,OTHER,5.387989e-05
+arrow,arrow,OTHER,5.3675663e-05
+Ears,Ears,OTHER,5.366872e-05
+labels,labels,OTHER,5.3615582e-05
+MarketPlace,MarketPlace,OTHER,5.360607e-05
+setup,setup,OTHER,5.360293e-05
+tz,tz,OTHER,5.3599804e-05
+blog,blog,OTHER,5.3599804e-05
+srv,srv,OTHER,5.3599804e-05
+Cozy Home Designed For Book Lovers And Cats: Critical Linking,Cozy Home Designed For Book Lovers And Cats: Critical Linking,WORK_OF_ART,5.2504296e-05
+shop,shop,LOCATION,5.164157e-05
+d.getElementsByTagName,d.getElementsByTagName,OTHER,5.0119143e-05
+getElementById,getElementById,OTHER,5.0119143e-05
+walk,walk,EVENT,4.917231e-05
+walk,walk,EVENT,4.917231e-05
+walk,walk,EVENT,4.917231e-05
+area,area,LOCATION,4.915099e-05
+data-instgrm-version,data-instgrm-version,WORK_OF_ART,4.9002723e-05
+inspiration,inspiration,OTHER,4.687377e-05
+train ride,train ride,EVENT,4.670136e-05
+magic,magic,OTHER,4.630775e-05
+film,film,WORK_OF_ART,4.6272755e-05
+series,series,WORK_OF_ART,4.623066e-05
+love,love,OTHER,4.6217283e-05
+films,films,WORK_OF_ART,4.619142e-05
+film,film,WORK_OF_ART,4.619142e-05
+more,more,OTHER,4.619142e-05
+group,group,ORGANIZATION,4.6150733e-05
+border,border,LOCATION,4.6142926e-05
+anything,anything,OTHER,4.612252e-05
+gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC,gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC,OTHER,4.6041154e-05
+t9FuRVCRmU73JWlzosgSIIZURCjo,t9FuRVCRmU73JWlzosgSIIZURCjo,OTHER,4.6041154e-05
+xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1,xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1,ORGANIZATION,4.6041154e-05
+iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC,OTHER,4.6041154e-05
+Fawkes,Fawkes,OTHER,4.6037298e-05
+February.,February.,LOCATION,4.6025885e-05
+"https://secure.adnxs.com/clktrb?id=693347"">Lit Chat from Book Riot","https://secure.adnxs.com/clktrb?id=693347"">Lit Chat from Book Riot",WORK_OF_ART,4.5985875e-05
+studio tour,studio tour,EVENT,4.5573695e-05
+btn-cta,btn-cta,OTHER,4.5020774e-05
+tourist trap,tourist trap,OTHER,4.464006e-05
+heather,heather,PERSON,4.302207e-05
+town,town,LOCATION,4.3017306e-05
+mountainside,mountainside,OTHER,4.3017306e-05
+few,few,PERSON,4.299409e-05
+way,way,OTHER,4.297183e-05
+way,way,OTHER,4.2967487e-05
+much,much,OTHER,4.2954664e-05
+inspiration,inspiration,OTHER,4.2938027e-05
+inspiration,inspiration,OTHER,4.292588e-05
+Platform,Platform,OTHER,4.2879863e-05
+street,street,LOCATION,4.287256e-05
+town,town,LOCATION,4.287256e-05
+much,much,OTHER,4.1912623e-05
+way,way,OTHER,4.136306e-05
+ton,ton,OTHER,4.0269202e-05
+thing,thing,OTHER,4.0261853e-05
+films,films,WORK_OF_ART,4.0153962e-05
+End FB Root,End FB Root,OTHER,3.9876737e-05
+Begin FB Root,Begin FB Root,OTHER,3.9876737e-05
+mistaking,mistaking,OTHER,3.9346993e-05
+list,list,OTHER,3.9136517e-05
+highlands,highlands,LOCATION,3.912773e-05
+movie,movie,WORK_OF_ART,3.91234e-05
+drive,drive,EVENT,3.910643e-05
+bus ride,bus ride,EVENT,3.910643e-05
+dream,dream,OTHER,3.910643e-05
+train route,train route,OTHER,3.910228e-05
+movies,movies,WORK_OF_ART,3.910228e-05
+route,route,OTHER,3.9098166e-05
+Express,Express,OTHER,3.9098166e-05
+gravestones,gravestones,OTHER,3.9040246e-05
+fan,fan,PERSON,3.9033017e-05
+design,design,OTHER,3.9029444e-05
+fan,fan,PERSON,3.9025894e-05
+courtyard,courtyard,LOCATION,3.9022372e-05
+ferret,ferret,OTHER,3.9018872e-05
+entrance,entrance,EVENT,3.9008526e-05
+buildings,buildings,LOCATION,3.900175e-05
+photo,photo,WORK_OF_ART,3.8998394e-05
+start,start,EVENT,3.8995062e-05
+desires,desires,OTHER,3.8991755e-05
+epilogue,epilogue,WORK_OF_ART,3.8991755e-05
+dozens,dozens,OTHER,3.8991755e-05
+calc,calc,OTHER,3.898847e-05
+webkit-calc,webkit-calc,OTHER,3.898847e-05
+box-shadow,box-shadow,CONSUMER_GOOD,3.898847e-05
+fans,fans,PERSON,3.738286e-05
+graffiti,graffiti,OTHER,3.6407167e-05
+M10,M10,WORK_OF_ART,3.6312056e-05
+M10,M10,ORGANIZATION,3.6312056e-05
+stories,stories,WORK_OF_ART,3.629189e-05
+"http://riotadnetwork.com/"">Riot Ad Network","http://riotadnetwork.com/"">Riot Ad Network",OTHER,3.627575e-05
+fjs,fjs,OTHER,3.626711e-05
+startPage,startPage,OTHER,3.626285e-05
+Podcast material,Podcast material,OTHER,3.5758094e-05
+t,t,OTHER,3.5367095e-05
+Privet Drive,Privet Drive,LOCATION,3.5072673e-05
+lowlands,lowlands,LOCATION,3.423001e-05
+hillside,hillside,OTHER,3.422246e-05
+trees,trees,OTHER,3.422246e-05
+circles,circles,OTHER,3.422246e-05
+people,people,PERSON,3.422246e-05
+shots,shots,WORK_OF_ART,3.4200573e-05
+advance,advance,OTHER,3.4197034e-05
+harbor seals,harbor seals,OTHER,3.4183155e-05
+isles,isles,OTHER,3.4183155e-05
+table,table,OTHER,3.417303e-05
+bathroom,bathroom,LOCATION,3.416971e-05
+world,world,LOCATION,3.416971e-05
+notes,notes,OTHER,3.416971e-05
+mirror,mirror,OTHER,3.4166413e-05
+visions,visions,OTHER,3.4156674e-05
+transportation struggles,transportation struggles,OTHER,3.4147153e-05
+plan,plan,OTHER,3.4147153e-05
+copy,copy,WORK_OF_ART,3.4144025e-05
+examples,examples,OTHER,3.4144025e-05
+Exterior,Exterior,OTHER,3.414092e-05
+pin,pin,OTHER,3.414092e-05
+finds,finds,OTHER,3.414092e-05
+robes,robes,CONSUMER_GOOD,3.414092e-05
+wands,wands,OTHER,3.414092e-05
+money,money,OTHER,3.414092e-05
+hot chocolate,hot chocolate,OTHER,3.413784e-05
+limousine,limousine,CONSUMER_GOOD,3.413784e-05
+infirmary,infirmary,LOCATION,3.4134777e-05
+room,room,LOCATION,3.4134777e-05
+peek,peek,OTHER,3.4134777e-05
+Tip,Tip,OTHER,3.4122753e-05
+result,result,OTHER,3.4119796e-05
+weddings,weddings,EVENT,3.4119796e-05
+scarf,scarf,OTHER,3.4116863e-05
+wall,wall,OTHER,3.4116863e-05
+friends,friends,PERSON,3.411395e-05
+snake,snake,OTHER,3.4111054e-05
+border-radius,border-radius,OTHER,3.410818e-05
+620px,620px,OTHER,3.410818e-05
+anywhere,anywhere,LOCATION,3.380613e-05
+chance,chance,OTHER,3.3755656e-05
+fun,fun,OTHER,3.372297e-05
+Glencoe,Glencoe,LOCATION,3.2769847e-05
+99fa4c9d-fb34-4c10-a4cf-dfbd33831912,99fa4c9d-fb34-4c10-a4cf-dfbd33831912,PERSON,3.1725587e-05
+maxPages,maxPages,OTHER,3.1723728e-05
+nextLink,nextLink,OTHER,3.1723728e-05
+Sailthru Horizon Sync,Sailthru Horizon Sync,ORGANIZATION,3.1723728e-05
+Hut,Hut,ORGANIZATION,3.0797655e-05
+Reptile House,Reptile House,LOCATION,3.0120304e-05
+stairway,stairway,OTHER,2.9681203e-05
+plenty,plenty,OTHER,2.9356384e-05
+Oxford Bodleian Library,Bodleian Library Divinity Hall,LOCATION,2.9029014e-05
+Great Hall,Great Hall,LOCATION,2.9016093e-05
+Grimmauld Place,Grimmauld Place,LOCATION,2.9003619e-05
+Victoria Street,Victoria Street,LOCATION,2.8678665e-05
+wp-image-142040,wp-image-142040,LOCATION,2.739128e-05
+wp-image-142043,wp-image-142043,OTHER,2.734492e-05
+Draco Malfoy,Draco Malfoy,PERSON,2.593807e-05
+You&,You&,PERSON,2.5386289e-05
+scenes,scenes,WORK_OF_ART,2.4551682e-05
+J.K.,J.K.,PERSON,2.3864088e-05
+Grassmarket,Grassmarket,LOCATION,2.384129e-05
+DRACO MALFOY IS A,DRACO MALFOY IS A,WORK_OF_ART,2.3248465e-05
+Hogwarts Express,Hogwarts Express,ORGANIZATION,2.3144234e-05
+Jacobite,Jacobite,OTHER,2.3144234e-05
+Fort William,Fort William,LOCATION,2.3141776e-05
+Diagon Alley,Diagon Alley,LOCATION,2.312514e-05
+Elephant House,Elephant House,LOCATION,2.3122839e-05
+Thomas Riddell Jr.,Thomas Riddell Jr.,PERSON,2.3105064e-05
+William McGonagall.,William McGonagall.,PERSON,2.3105064e-05
+Thomas Riddell,Thomas Riddell,PERSON,2.3105064e-05
+McGonagall,McGonagall,PERSON,2.3092412e-05
+Hagrid,Hagrid,PERSON,2.0255975e-05
+Buckbeak,Buckbeak,OTHER,2.0251546e-05
+Dumbledore,Dumbledore,PERSON,2.0240797e-05
+non-Harry,non-Harry,OTHER,2.0238702e-05
+ING WEREWOLF,ING WEREWOLF,PERSON,2.022058e-05
+It&,It&,PERSON,2.0209181e-05
+Sirius,Sirius,ORGANIZATION,2.020733e-05
+Triwizard Tragedies,Triwizard Tragedies,OTHER,2.020733e-05
+Hermione,Hermione,PERSON,2.020733e-05
+Charms OWL,Charms OWL,PERSON,2.020733e-05
+Ginny Weasley,Ginny Weasley,PERSON,2.0205493e-05
+Holyhead Harpies,Holyhead Harpies,ORGANIZATION,2.0205493e-05
+I&,I&,PERSON,2.0205493e-05
+Hedwigs,Hedwigs,PERSON,2.0203668e-05
+Golden Trio,Golden Trio,PERSON,2.0203668e-05
+Gryffindors,Gryffindors,PERSON,2.0201858e-05
+New College Cloisters,New College Cloisters,PERSON,2.0201858e-05
+Don&,Don&,OTHER,2.019474e-05
+Dudley,Dudley,LOCATION,2.0187817e-05
+London Zoo,London Zoo,LOCATION,2.0187817e-05
+Arthur’s Seat,Arthur's Seat,LOCATION,2.0187817e-05
+many,many,PERSON,1.8099621e-05

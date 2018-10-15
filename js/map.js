@@ -6,27 +6,20 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYW5uYW5pIiwiYSI6ImNqYm5zbXhrbzU4bXgzM256MzQ5b
 
 
 
+
 var map = new mapboxgl.Map({
     container: 'map',
     // style: 'mapbox://styles/mapbox/light-v9',
     style: 'mapbox://styles/annani/cjn0ee24d85te2spgggk9e8o5',
-    zoom: 9,
+    zoom: 13,
     pitch: 50,
-    center: [-73.99, 40.73]
+    center: [-73.99, 40.73],
+    light: {anchor: "viewport", 
+            color: "white", intensity: 0.9 }
     // style: 'mapbox://styles/annani/cjcg9nye772tm2rmzjfyy9ga0'
 });
 
 
-// map.addControl(new MapboxGeocoder({
-//     accessToken: mapboxgl.accessToken
-//     }));
-
-
-// var geocoder = new MapboxGeocoder({
-//     accessToken: mapboxgl.accessToken
-// });
-
-// document.getElementById('geocoder').appendChild(geocoder.onAdd(map));
 
 var url = '../data/bookstores.geojson';
 
@@ -34,63 +27,96 @@ map.on('load', function () {
     window.setInterval(function() {
         map.getSource('bookstores').setData(url);
     }, 1000);
-
     map.addSource('bookstores', { type: 'geojson', data: url });
+
+    // add custom symbol
+
+    // map.loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cat_silhouette.svg/400px-Cat_silhouette.svg.png', function(error, image) {
+    map.loadImage('../css/location-pink.png', function(error, image) {
+        if (error) throw error;
+        map.addImage('custom-icon-pink', image);
+
+
     map.addLayer({
         "id": "bookstores",
-        // "type": "symbol",
-        "type": "circle",
+        "type": "symbol",
+        // "type": "circle",
         "source": "bookstores",
         "filter": [ "==", "Type", "Bookstore"],
-        "paint": {
-            "circle-radius": 6,
-            "circle-color": "#ff0000"
-        },
-        // "layout": {
-        //     "icon-image": "rocket-15"
-        // }
+        // "paint": {
+        //     "circle-radius": 6,
+        //     "circle-color": "#ff0000"
+        // },
+        "layout": {
+            "icon-image": "custom-icon-pink",
+            "icon-size": 0.1,
+            "icon-allow-overlap": true
+        }
+        });
     });
+
+    map.loadImage('../css/location-purple.png', function(error, image) {
+        if (error) throw error;
+        map.addImage('custom-icon-purple', image);
+
     map.addLayer({
         "id": "library",
-        // "type": "symbol",
-        "type": "circle",
+        "type": "symbol",
+        // "type": "circle",
         "source": "bookstores",
         "filter": [ "==", "Type", "Library"],
-        "paint": {
-            "circle-radius": 6,
-            "circle-color": "#ff0000"
-        },
-        // "layout": {
-        //     "icon-image": "cat", "icon-size": 0.25
-        // }
+        // "paint": {
+        //     "circle-radius": 6,
+        //     "circle-color": "#ff0000"
+        // },
+        "layout": {
+            "icon-image": "custom-icon-purple",
+            "icon-size": 0.1,
+            "icon-allow-overlap": true
+        }
+        });
     });
 
-});
+// Create a popup, but don't add it to the map yet.
+    var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false
+    });
 
-    //add pop-up
-// When a click event occurs on a feature in the places layer, open a popup at the
-    // location of the feature, with description HTML from its properties.
-    map.on('click', ['bookstores', 'library'], function (e) {
-        new mapboxgl.Popup()
-            .setLngLat(e.features[0].geometry.coordinates)
-            .setHTML(e.features[0].properties.Location)
+    map.on('mouseenter', 'bookstores', function(e) {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer';
+
+        var coordinates = e.features[0].geometry.coordinates.slice();
+        var description = e.features[0].properties.Description;
+        var bookstore_name = e.features[0].properties.Location;
+        // console.log(e.features[0].properties.LocationURL);
+        // console.log(e.features[0].properties.Location);
+        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        }
+        popup.setLngLat(coordinates)
+            // .setHTML(description)
+            .setHTML("<h4>" + bookstore_name + '</h4>' + "<p>Description:" + description + "</p>")
             .addTo(map);
     });
 
-    // Change the cursor to a pointer when the mouse is over the places layer.
-    map.on('mouseenter', ['bookstores', 'library' ], function () {
-        map.getCanvas().style.cursor = 'pointer';
-        console.log('i am catching the click');
-    });
-
-    // Change it back to a pointer when it leaves.
-    map.on('mouseleave', ['bookstores', 'library' ], function () {
+    map.on('mouseleave', 'bookstores', function() {
         map.getCanvas().style.cursor = '';
+        popup.remove();
+    });
+
+    map.on('click', 'bookstores', function (e) {
+        var bookstoreurl = e.features[0].properties.LocationURL;
+        console.log(bookstoreurl);
+        var win = window.open(bookstoreurl, '_blank');
+        win.focus();
     });
 
 
+});
 
-
+console.log(map);
 
 // toggle between layers
 var toggleableLayerIds = [ 'bookstores', 'library' ];
@@ -124,15 +150,88 @@ for (var i = 0; i < toggleableLayerIds.length; i++) {
 };
 
 
-//Fly to feature
+// Fly dynamically over the cities
+// Get data from cities.json and then load it as array
+var citiesArray = [];
+var requestURL = '../data/cities.json'
+var request = new XMLHttpRequest();
+request.open('GET', requestURL);
+request.responseType = 'json';
+request.send();
 
-var booksArray = [[40.7128, 74.0060], [10.3910, 75.4794]]
+
+request.onload = function() {
+  citiesArray = request.response;
+    };
+
+
 document.getElementById('fly').addEventListener('click', function () {
-    // Fly to a random location by offsetting the point -74.50, 40
-    // by up to 5 degrees.
     map.flyTo({
-        center: booksArray[Math.floor(Math.random() * booksArray.length)]
+        center: citiesArray[Math.floor(Math.random() * citiesArray.length)]
     });
 });
+
+
+// Add search
+/* given a query in the form "lng, lat" or "lat, lng" returns the matching
+ * geographic coordinate(s) as search results in carmen geojson format,
+ * https://github.com/mapbox/carmen/blob/master/carmen-geojson.md
+ */
+var coordinatesGeocoder = function (query) {
+    // match anything which looks like a decimal degrees coordinate pair
+    var matches = query.match(/^[ ]*(?:Lat: )?(-?\d+\.?\d*)[, ]+(?:Lng: )?(-?\d+\.?\d*)[ ]*$/i);
+    if (!matches) {
+        return null;
+    }
+
+    function coordinateFeature(lng, lat) {
+        return {
+            center: [lng, lat],
+            geometry: {
+                type: "Point",
+                coordinates: [lng, lat]
+            },
+            place_name: 'Lat: ' + lat + ', Lng: ' + lng, // eslint-disable-line camelcase
+            place_type: ['coordinate'], // eslint-disable-line camelcase
+            properties: {},
+            type: 'Feature'
+        };
+    }
+
+    var coord1 = Number(matches[1]);
+    var coord2 = Number(matches[2]);
+    var geocodes = [];
+
+    if (coord1 < -90 || coord1 > 90) {
+        // must be lng, lat
+        geocodes.push(coordinateFeature(coord1, coord2));
+    }
+
+    if (coord2 < -90 || coord2 > 90) {
+        // must be lat, lng
+        geocodes.push(coordinateFeature(coord2, coord1));
+    }
+
+    if (geocodes.length === 0) {
+        // else could be either lng, lat or lat, lng
+        geocodes.push(coordinateFeature(coord1, coord2));
+        geocodes.push(coordinateFeature(coord2, coord1));
+    }
+
+    return geocodes;
+};
+
+map.addControl(new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken,
+    localGeocoder: coordinatesGeocoder,
+    zoom: 4,
+    placeholder: "Enter the city you are interested in visiting"
+}));
+
+
+// document.getElementById('control').appendChild(coordinatesGeocoder.onAdd(map));
+
+console.log(coordinatesGeocoder);
+console.log(document.getElementById('control'));
 
 

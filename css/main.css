@@ -1,23 +1,23 @@
 body { margin:0; padding:0; 
         /*font-family: 'Lato', Calibri, Arial, sans-serif;*/
         font-family: : 'Raleway';
-    color: black;
-    background: white;
-    overflow: hidden;
-    font-color: black;
-
+      color: black;
+      background: white;
+      overflow: hidden;
+      font-color: black;
     }
 
 
-h3 {
+h1, h2, h3, h4, p {
     color: black;
+    display: inline-block;
     font-family: : 'Raleway';
 }
 
-p {
+/*p {
    color: black;
    font-family: : 'Raleway'; 
-}
+}*/
 
 
 #map { position:absolute; bottom:0; width:80%; height: 100% }
@@ -116,12 +116,15 @@ p {
 -------------------------------------------------*/
 .mapboxgl-popup {
         max-width: 400px;
-        font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        /*font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;*/
+        font-family: : 'Raleway';
     }
 
-#landing{
+
+
+/*#landing{
     background-color: white;
-}
+}*/
 
 
 
@@ -157,3 +160,5 @@ p {
         text-align: center;
         color: #fff;
         background: #ee8a65;
+      }
+

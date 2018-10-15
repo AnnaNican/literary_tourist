@@ -4,8 +4,8 @@
     <meta charset='utf-8' />
     <title>ALiterary Tourist</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.43.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
     <link rel="stylesheet" type="text/css" href="./css/main.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900|Raleway:400,300,700,600,900' rel='stylesheet' type='text/css'>
 
@@ -19,11 +19,19 @@
 
 
 
+
 </head>
 <body>
 
+
 <div class='menu-container'>
 		
+    <div class='search-location'>
+        <h3>Randomly explore</h3>
+    <p>Fly to feature across cities </p>
+    <button id='fly'>Fly</button>
+      </div>
+
       <div id='menu' class='menu'>
       	<h3>Choose type of Literary Exploration</h3>
 		<p>Thios is what you can press and text will change</p>
@@ -33,7 +41,8 @@
 <div class='menu-search'>
 	<div class='search-location'>
       	<h3>Search by Location</h3>
-		<p>Enter the search </p>
+		    <p>Enter the search </p>
+        <div id="control" class='control'></div>
       </div>
 
     <div class='search-location'>

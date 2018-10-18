@@ -16,21 +16,25 @@ def create_bookstores():
 	reader = csv.reader(f)
 	headers = next(reader) 
 	for row in reader:
-		features.append(
-				Feature(
-					geometry = Point((float(row[5]), float(row[4]))),
-					properties = {
-					'Location': row[0],
-					'Address': row[1],
-					'City': row[2],
-					'Country': row[3],
-					'Type': row[8],
-					'Description': row[6],
-					'LocationURL': row[9]
-					}
+		print row
+		try:
+			features.append(
+					Feature(
+						geometry = Point((float(row[5]), float(row[4]))),
+						properties = {
+						'Location': row[0],
+						'Address': row[1],
+						'City': row[2],
+						'Country': row[3],
+						'Type': row[8],
+						'Description': row[6],
+						'LocationURL': row[9],
+						'Image': row[7]
+						}
+						)
 					)
-				)
-		
+		except ValueError,e:
+			print "error",e,"on line",row
 	collection = FeatureCollection(features)
 	with open("../data/bookstores.geojson", "w") as f:
 		f.write('%s' % collection)
@@ -45,7 +49,7 @@ def create_cities_json():
 	for row in reader:
 		city = str(row[2]+ ', ' + row[3])
 		cities.append(city)
-
+	#
 	uniquecities = set(cities)
 	citycenters = []
 	for city in uniquecities:
@@ -59,7 +63,7 @@ def create_cities_json():
 			citycenters.append(coordinates)
 		except:
 			next
-
+	#
 	with open("../data/cities.json", "w") as f:
 		f.write('%s' % citycenters)
 

@@ -20,9 +20,12 @@ h1, h2, h3, h4, p {
 }*/
 
 
+/*Button styling*/
+
+
+
+
 #map { position:absolute; bottom:0; width:80%; height: 100% }
-
-
 
 
 /*Menu
@@ -122,12 +125,6 @@ h1, h2, h3, h4, p {
 
 
 
-/*#landing{
-    background-color: white;
-}*/
-
-
-
 /* GEOCODER SEARCH
 -------------------------------------------------*/
 
@@ -161,4 +158,5 @@ h1, h2, h3, h4, p {
         color: #fff;
         background: #ee8a65;
       }
+
 

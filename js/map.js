@@ -16,7 +16,6 @@ var map = new mapboxgl.Map({
     center: [-73.99, 40.73],
     light: {anchor: "viewport", 
             color: "white", intensity: 0.9 }
-    // style: 'mapbox://styles/annani/cjcg9nye772tm2rmzjfyy9ga0'
 });
 
 
@@ -25,71 +24,65 @@ var url = '../data/bookstores.geojson';
 
 map.on('load', function () {
     window.setInterval(function() {
-        map.getSource('bookstores').setData(url);
-    }, 1000);
+        map.getSource('bookstores').setData(url);}, 1000);
     map.addSource('bookstores', { type: 'geojson', data: url });
 
-    // add custom symbol
-
-    // map.loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cat_silhouette.svg/400px-Cat_silhouette.svg.png', function(error, image) {
+    // Custom Markers Bookstores
     map.loadImage('../css/location-pink.png', function(error, image) {
         if (error) throw error;
         map.addImage('custom-icon-pink', image);
 
 
-    map.addLayer({
-        "id": "bookstores",
-        "type": "symbol",
-        // "type": "circle",
-        "source": "bookstores",
-        "filter": [ "==", "Type", "Bookstore"],
-        // "paint": {
-        //     "circle-radius": 6,
-        //     "circle-color": "#ff0000"
-        // },
-        "layout": {
-            "icon-image": "custom-icon-pink",
-            "icon-size": 0.1,
-            "icon-allow-overlap": true
-        }
+        map.addLayer({
+            "id": "bookstores",
+            "type": "symbol",
+            "source": "bookstores",
+            "filter": [ "==", "Type", "Bookstore"],
+            "layout": {
+                "icon-image": "custom-icon-pink",
+                "icon-size": 0.1,
+                "icon-allow-overlap": true
+            }
         });
     });
 
+    //Custom Markers Libraries
     map.loadImage('../css/location-purple.png', function(error, image) {
         if (error) throw error;
         map.addImage('custom-icon-purple', image);
 
-    map.addLayer({
-        "id": "library",
-        "type": "symbol",
-        // "type": "circle",
-        "source": "bookstores",
-        "filter": [ "==", "Type", "Library"],
-        // "paint": {
-        //     "circle-radius": 6,
-        //     "circle-color": "#ff0000"
-        // },
-        "layout": {
-            "icon-image": "custom-icon-purple",
-            "icon-size": 0.1,
-            "icon-allow-overlap": true
-        }
+        map.addLayer({
+            "id": "library",
+            "type": "symbol",
+            "source": "bookstores",
+            "filter": [ "==", "Type", "Library"],
+            "layout": {
+                "icon-image": "custom-icon-purple",
+                "icon-size": 0.1,
+                "icon-allow-overlap": true
+            }
         });
     });
 
 // Create a popup, but don't add it to the map yet.
-    var popup = new mapboxgl.Popup({
-        closeButton: false,
-        closeOnClick: false
-    });
+var popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false
+});
 
-    map.on('mouseenter', 'bookstores', function(e) {
+objects = ['bookstores', 'library']
+
+for (i = 0; i < objects.length; i++) {
+    console.log(objects[i])
+
+    map.on('mouseenter', objects[i], function(e) {
         // Change the cursor style as a UI indicator.
         map.getCanvas().style.cursor = 'pointer';
 
         var coordinates = e.features[0].geometry.coordinates.slice();
         var description = e.features[0].properties.Description;
         var bookstore_name = e.features[0].properties.Location;
+        // var bookstore_image = e.features[0].properties.Image;
         // console.log(e.features[0].properties.LocationURL);
         // console.log(e.features[0].properties.Location);
         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
@@ -97,26 +90,27 @@ map.on('load', function () {
         }
         popup.setLngLat(coordinates)
             // .setHTML(description)
-            .setHTML("<h4>" + bookstore_name + '</h4>' + "<p>Description:" + description + "</p>")
-            .addTo(map);
-    });
+            .setHTML("<h4>" + bookstore_name + '</h4>' + '<p>Description:' + description + '</p>')
+             // + '<img src="' + bookstore_image + '">')
+             .addTo(map);
+         });
 
-    map.on('mouseleave', 'bookstores', function() {
+
+    map.on('mouseleave', objects[i], function() {
         map.getCanvas().style.cursor = '';
         popup.remove();
     });
 
-    map.on('click', 'bookstores', function (e) {
+    map.on('click', objects[i], function (e) {
         var bookstoreurl = e.features[0].properties.LocationURL;
-        console.log(bookstoreurl);
         var win = window.open(bookstoreurl, '_blank');
         win.focus();
     });
 
+};
 
 });
 
-console.log(map);
 
 // toggle between layers
 var toggleableLayerIds = [ 'bookstores', 'library' ];
@@ -159,6 +153,7 @@ request.open('GET', requestURL);
 request.responseType = 'json';
 request.send();
 
+console.log(citiesArray);
 
 request.onload = function() {
   citiesArray = request.response;

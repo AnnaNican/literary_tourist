@@ -3,9 +3,7 @@
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiYW5uYW5pIiwiYSI6ImNqYm5zbXhrbzU4bXgzM256MzQ5bjJ5YnkifQ.GICgZ4YgdjI5xeamsEd49w';
 
-
-
-
+var url = '../data/bookstores.geojson';
 
 var map = new mapboxgl.Map({
     container: 'map',
@@ -17,10 +15,6 @@ var map = new mapboxgl.Map({
     light: {anchor: "viewport", 
             color: "white", intensity: 0.9 }
 });
-
-
-
-var url = '../data/bookstores.geojson';
 
 map.on('load', function () {
     window.setInterval(function() {
@@ -82,7 +76,7 @@ for (i = 0; i < objects.length; i++) {
         var coordinates = e.features[0].geometry.coordinates.slice();
         var description = e.features[0].properties.Description;
         var bookstore_name = e.features[0].properties.Location;
-        // var bookstore_image = e.features[0].properties.Image;
+        var bookstore_image = e.features[0].properties.Image;
         // console.log(e.features[0].properties.LocationURL);
         // console.log(e.features[0].properties.Location);
         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
@@ -90,8 +84,8 @@ for (i = 0; i < objects.length; i++) {
         }
         popup.setLngLat(coordinates)
             // .setHTML(description)
-            .setHTML("<h4>" + bookstore_name + '</h4>' + '<p>Description:' + description + '</p>')
-             // + '<img src="' + bookstore_image + '">')
+            .setHTML("<h4>" + bookstore_name + '</h4>' + '<p>Description:' + description + '</p>'
+             + '<img href="' + bookstore_image + '">')
              .addTo(map);
          });
 
@@ -162,7 +156,17 @@ request.onload = function() {
 
 document.getElementById('fly').addEventListener('click', function () {
     map.flyTo({
-        center: citiesArray[Math.floor(Math.random() * citiesArray.length)]
+        center: citiesArray[Math.floor(Math.random() * citiesArray.length)],
+        zoom: 9
+    });
+});
+
+
+// Add country overview
+document.getElementById('us-overview').addEventListener('click', function () {
+    map.flyTo({
+        center: [-95.7129, 37.0902],
+        zoom: 3
     });
 });
 

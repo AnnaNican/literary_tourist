@@ -8,16 +8,25 @@ body { margin:0; padding:0;
     }
 
 
-h1, h2, h3, h4, p {
+h1, h2, h3, h4, h5 p {
     color: black;
     display: inline-block;
     font-family: : 'Raleway';
 }
 
-/*p {
+h3 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 13px;
+}
+
+p {
    color: black;
+   font-size: 13px;
    font-family: : 'Raleway'; 
-}*/
+}
 
 
 /*Button styling*/
@@ -25,7 +34,7 @@ h1, h2, h3, h4, p {
 
 
 
-#map { position:absolute; bottom:0; width:80%; height: 100% }
+#map { position:absolute; bottom:0; width:75%; height: 100% }
 
 
 /*Menu
@@ -36,12 +45,31 @@ h1, h2, h3, h4, p {
   background-color: white; 
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  /*align-content: stretch;  */
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.menu-item {
+  width: 20%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e2e2e2;
+/*  width: 20%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   align-items: flex-end;
   align-content: stretch;  
   width: 100%;
   font-family: 'Raleway', sans-serif;
+  border-bottom: 2px solid #e2e2e2;
+  flex-shrink: 2;*/
 }
+
 
 .menu{
     width: 20%;
@@ -49,6 +77,8 @@ h1, h2, h3, h4, p {
     z-index: 1;
     flex-basis: auto;
     align-self: auto;
+    border-bottom: 1px solid #e2e2e2;
+    padding-bottom: 30px;
 }
 
 
@@ -83,9 +113,11 @@ h1, h2, h3, h4, p {
 }
 
 #menu a.active {
+    background-color: black;
     /*background-color: #3887be;*/
     /*color: #ffffff;*/
-    color:black;
+    /*color:black;*/
+    color: white;
 }
 
 #menu a.active:hover {
@@ -93,7 +125,7 @@ h1, h2, h3, h4, p {
     color:white;
 }
 
-.menu-search {
+/*.menu-search {
   color: #fff;
   background-color: white; 
   display: flex;
@@ -102,17 +134,7 @@ h1, h2, h3, h4, p {
   align-items: flex-end;
   align-content: stretch;  
   width: 100%;
-  font-family: 'Raleway', sans-serif;}
-
-
-.search-location a{
-    /*width:20%;*/
-/*    background: #fff;
-    position: absolute;
-    flex-basis: auto;
-    align-self: auto;*/
-}
-
+  font-family: 'Raleway', sans-serif;}*/
 
 
 /* Pop Up
@@ -145,7 +167,7 @@ h1, h2, h3, h4, p {
 /* FLY TO
 -------------------------------------------------*/
 #fly {
-        display: block;
+/*        display: block;
         position: relative;
         margin: 0px auto;
         width: 50%;
@@ -156,7 +178,37 @@ h1, h2, h3, h4, p {
         font-size: 12px;
         text-align: center;
         color: #fff;
-        background: #ee8a65;
+        background: #ee8a65;*/
       }
 
+
+
+/* BUTTON CSS
+------------------------------------------- */
+
+.button{
+  display:inline-block;
+  
+  font-family: : 'Raleway';
+  text-decoration:none; 
+  
+  color: black;
+  brackground-color:transparent;
+  border:1px solid black;
+  border-radius:100px;
+  
+  padding: .3em 1.2em;
+  margin:5px;
+      
+  background-size: 200% 100%; 
+  background-image: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0) 50%);
+  transition: background-position .3s cubic-bezier(0.19, 1, 0.22, 1) .1s, color .5s ease 0s, background-color .5s ease;
+  width: 50%;
+}
+
+.button:hover{
+  color:rgba(255, 255, 255, 1);
+  background-color: black;
+  background-position: -100% 100%;
+}
 

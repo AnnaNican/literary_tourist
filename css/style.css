@@ -37,8 +37,8 @@ h1 {
 
 
 #next-page {
-    height: 25px;
-    width: 375px;
+/*    height: 25px;
+    width: 375px;*/
 	position: absolute;
 	top: 0; bottom: 0; left: 0; right: 0;
 	margin: auto;
@@ -47,7 +47,7 @@ h1 {
 }
 
 .maincontent, .nextcontent {
-	padding-top: 40px;
+	/*padding-top: 40px;*/
     display: none;
 }
 
@@ -93,7 +93,7 @@ a.mainlink:hover, a.nextlink:hover{
 /* MAPBOX
 -------------------------------------------------*/
 
-
+/*
 .geocoder {
         position:absolute;
         z-index:1;
@@ -103,4 +103,4 @@ a.mainlink:hover, a.nextlink:hover{
         top:20px;
     }
 
-.mapboxgl-ctrl-geocoder { min-width:100%; }
+.mapboxgl-ctrl-geocoder { min-width:100%; }*/

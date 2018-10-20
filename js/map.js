@@ -9,9 +9,10 @@ var map = new mapboxgl.Map({
     container: 'map',
     // style: 'mapbox://styles/mapbox/light-v9',
     style: 'mapbox://styles/annani/cjn0ee24d85te2spgggk9e8o5',
-    zoom: 13,
+    zoom: 5,
     pitch: 50,
-    center: [-73.99, 40.73],
+    // center: [-73.99, 40.73],
+    center: [-95.7129, 37.0902],
     light: {anchor: "viewport", 
             color: "white", intensity: 0.9 }
 });
@@ -58,13 +59,32 @@ map.on('load', function () {
         });
     });
 
+
+      //Custom Markers Litarary Landmarks
+    map.loadImage('../css/location-blue.png', function(error, image) {
+        if (error) throw error;
+        map.addImage('custom-icon-blue', image);
+
+        map.addLayer({
+            "id": "landmark",
+            "type": "symbol",
+            "source": "bookstores",
+            "filter": [ "==", "Type", "Literary Landmark"],
+            "layout": {
+                "icon-image": "custom-icon-blue",
+                "icon-size": 0.1,
+                "icon-allow-overlap": true
+            }
+        });
+    });
+
 // Create a popup, but don't add it to the map yet.
 var popup = new mapboxgl.Popup({
     closeButton: false,
     closeOnClick: false
 });
 
-objects = ['bookstores', 'library']
+objects = ['bookstores', 'library', 'landmark']
 
 for (i = 0; i < objects.length; i++) {
     console.log(objects[i])
@@ -77,6 +97,7 @@ for (i = 0; i < objects.length; i++) {
         var description = e.features[0].properties.Description;
         var bookstore_name = e.features[0].properties.Location;
         var bookstore_image = e.features[0].properties.Image;
+        console.log(bookstore_image);
         // console.log(e.features[0].properties.LocationURL);
         // console.log(e.features[0].properties.Location);
         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
@@ -84,8 +105,11 @@ for (i = 0; i < objects.length; i++) {
         }
         popup.setLngLat(coordinates)
             // .setHTML(description)
-            .setHTML("<h4>" + bookstore_name + '</h4>' + '<p>Description:' + description + '</p>'
-             + '<img href="' + bookstore_image + '">')
+            .setHTML("<h4>" + bookstore_name + '</h4>' 
+                + '<img src="' + bookstore_image + '" width="128" height="128">' 
+                +'<p> <b>Description:</b>' 
+                + description + '</p>'
+             )
              .addTo(map);
          });
 
@@ -107,7 +131,7 @@ for (i = 0; i < objects.length; i++) {
 
 
 // toggle between layers
-var toggleableLayerIds = [ 'bookstores', 'library' ];
+var toggleableLayerIds = [ 'bookstores', 'library', 'landmark'];
 
 for (var i = 0; i < toggleableLayerIds.length; i++) {
     var id = toggleableLayerIds[i];

@@ -1,0 +1,23 @@
+S generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+/notes
+notes.md
+
+#Config
+####################
+*.cfg
+
+
+####FSQ creds
+/src/lookup.sh
+/src/lookupgeo.py
+

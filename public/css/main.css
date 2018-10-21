@@ -1,17 +1,21 @@
 body { margin:0; padding:0; 
         /*font-family: 'Lato', Calibri, Arial, sans-serif;*/
-        font-family: : 'Raleway';
+        /*font-family: 'Raleway';*/
       color: black;
       background: white;
       overflow: hidden;
       font-color: black;
+
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
     }
 
 
 h1, h2, h3, h4, h5 p {
     color: black;
     display: inline-block;
-    font-family: : 'Raleway';
+    font-family: 'Raleway';
 }
 
 h3 {
@@ -25,7 +29,7 @@ h5 {
 p {
    color: black;
    font-size: 13px;
-   font-family: : 'Raleway'; 
+   font-family: 'Raleway'; 
 
    margin-left: 0px;
     overflow:auto;
@@ -273,3 +277,131 @@ img.mapboxgl-popup-content{
   background-position: -100% 100%;
 }
 
+
+/* Main
+------------------------------------------- */
+
+
+.main-container {
+  color: #fff;
+  background-color: white; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  /*width: 100%;*/
+  font-family: 'Raleway', sans-serif;
+  /*margin-top: 20%;*/
+  flex: 1 0 auto;
+
+}
+
+.main-item {
+  width: 50%;
+  text-align: center;
+}
+
+.header-literary{
+  font-family: 'Great Vibes', cursive;
+  color: black;
+  font-size: 356px;
+  /*display: inline-block;*/}
+
+.header-tourism{
+  font-family: 'Raleway';
+  color: black;
+  font-size: 150px;
+  /*display: inline-block;*/
+}
+
+
+/* DEMO-SPECIFIC STYLES */
+.typewriter h1 {
+  color: black;
+  font-family: 'Raleway';
+  font-size: 150px;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .01em; /* Adjust as needed */
+  animation: 
+    typing 5.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+
+.typewriter h4 {
+  color: black;
+  font-family: 'Raleway';
+  font-size: 30px;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  /*border-right: .15em solid black; /* The typwriter cursor */*/
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .01em; /* Adjust as needed */
+/*  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end;
+  animation-delay: 5.5s;*/
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black }
+}
+
+
+/* ABOUT PAGE
+------------------------------------------- */
+
+
+.about-container {
+  color: #fff;
+  background-color: white; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 20%;
+  flex: 1 0 auto;
+
+}
+
+.about-item {
+  width: 50%;
+  text-align: center;
+}
+
+
+
+
+
+
+
+.footer {
+  flex-shrink: 0;
+  padding: 20px;
+  float: right;
+  text-align: right;
+}
+
+
+.fa-github {
+color: red;
+font-size: 40px;
+font-weight: 900;
+}

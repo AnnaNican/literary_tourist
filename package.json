@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AnnaNican/literary_tourist#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.4.1"
   }
 }

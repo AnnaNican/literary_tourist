@@ -7,6 +7,11 @@
 
   </head>
   <body>
-  	<H2>Hello world</H2>
+  	<div class='about-container'>
+
+  <div class='about-item'>
+    <h2>Literary Tourist</h2>
+  </div>
+
   </body>
 </html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8' />
+  <title>ALiterary Tourist</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+  <link rel="stylesheet" type="text/css" href="./css/main.css">
+  <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Raleway:400,300,700,600,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+  <!-- Plug for Geo Codder -->
+  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css' type='text/css' />
+
+
+
+</head>
+<body>
+
+ <!-- CONTROL NAV -->
+
+ <div class='menu-container'>
+
+  <div class='menu-item'>
+    <h2>Literary Tourist</h2>
+  </div>
+
+  <div class='menu-item'>
+    <h3>BE ACCIDENTAL</h3>
+    <p>Fly to a random city to explore their book collection </p>
+    <button id='fly' class="button">FORTUITOUS CITY</button>
+  </div>
+
+  <div class='menu-item'>
+    <h3>BE CONSCIOUS</h3>
+    <p>See the big picture </p>
+    <button id='us-overview' class="button">BIG PICTURE</button>
+  </div>
+
+
+
+  <div id='menu' class='menu'>
+   <h3>BE SELECTIVE</h3>
+   <p>Thios is what you can press and text will change</p>
+ </div>
+
+ <div class='menu-item'>
+    <h4>Other interactions</h4>
+    <ul>
+        <li>Use top-right search box to find a specific city</li>
+        <li>Hover over pin to get overview</li>
+        <li>Click on pin to open location’s website in new tab</li>
+    </ul>
+  </div>
+
+  <div class='menu-item'>
+    <a href="/about"><i class="fa fa-fw fa-table"></i> About</a>
+  </div>
+
+
+</div>
+
+<!--  <div class='menu-search'>
+   <div class='search-location'>
+     <h3>Search by Location</h3>
+     <p>Enter the search </p>
+     <div id="control" class='control'></div>
+   </div>
+ </div> -->
+
+
+ <!-- MAP -->
+  <div id='map'></div>
+
+
+ <script src="js/map.js"></script>
+</body>
+
+</html>

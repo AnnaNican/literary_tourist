@@ -9,7 +9,7 @@ var map = new mapboxgl.Map({
     container: 'map',
     // style: 'mapbox://styles/mapbox/light-v9',
     style: 'mapbox://styles/annani/cjn0ee24d85te2spgggk9e8o5',
-    zoom: 5,
+    zoom: 3,
     pitch: 50,
     // center: [-73.99, 40.73],
     center: [-95.7129, 37.0902],

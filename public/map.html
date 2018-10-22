@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset='utf-8' />
-  <title>ALiterary Tourist</title>
+  <title>Literary Tourism</title>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
@@ -25,57 +25,52 @@
 
   <div class='menu-item'>
     <h2>Literary Tourist</h2>
+    <p>IToday travel is accessible and widely practiced across people independent of their demographic attributes. People travel for different reasons, so why not travel for places that store knowledge in book bindings? This app is made for those who want to travel for (or at least stop by ) at the places that carry books, either for sale, public access or have landmarks that have have been in some significance to authors.</p> 
+
+    <p>** currently US only (hopefully more countries added soon)</p>
   </div>
 
   <div class='menu-item'>
-    <h3>BE ACCIDENTAL</h3>
-    <p>Fly to a random city to explore their book collection </p>
-    <button id='fly' class="button">FORTUITOUS CITY</button>
+    <h3>BE ADVENTITIOUS</h3>
+    <p>Sometimes it’s good to discover by accident rather than design. “Fly” into a random city to explore literally attractions. </p>
+    <button id='fly' class="button">ADVENTITIOUS CITY</button>
   </div>
 
   <div class='menu-item'>
     <h3>BE CONSCIOUS</h3>
-    <p>See the big picture </p>
+    <p>Instantaneous “zoom-out” to see the distribution of literally places as an overview. Marvel on how many we have.</p>
     <button id='us-overview' class="button">BIG PICTURE</button>
   </div>
 
 
-
-  <div id='menu' class='menu'>
+  <div id='menu' class='menu-item'>
    <h3>BE SELECTIVE</h3>
-   <p>Thios is what you can press and text will change</p>
+   <p>Select specific type of literally destinations. Toggle between bookstores and libraries to make exploration more concentrated. </p>
  </div>
 
  <div class='menu-item'>
-    <h4>Other interactions</h4>
-    <ul>
-        <li>Use top-right search box to find a specific city</li>
-        <li>Hover over pin to get overview</li>
-        <li>Click on pin to open location’s website in new tab</li>
-    </ul>
-  </div>
-
-  <div class='menu-item'>
-    <a href="/about"><i class="fa fa-fw fa-table"></i> About</a>
-  </div>
-
+  <h4>Other interactions</h4>
+  <ul>
+    <li>Use top-right search box to find a specific city</li>
+    <li>Hover over pin to get overview</li>
+    <li>Click on pin to open location’s website in new tab</li>
+  </ul>
+</div>
 
 </div>
 
-<!--  <div class='menu-search'>
-   <div class='search-location'>
-     <h3>Search by Location</h3>
-     <p>Enter the search </p>
-     <div id="control" class='control'></div>
-   </div>
- </div> -->
 
+<!-- MAP -->
+<div id='map'></div>
+<script src="js/map.js"></script>
 
- <!-- MAP -->
-  <div id='map'></div>
+<!-- MAP -->
+<footer class="footer">
+  <a href="/about"><i class="fas fa-info-circle"></i></a>
+  <a href="https://github.com/AnnaNican/literary_tourist"><i class="fab fa-github"></i></a>
+  <a href="https://annanicanorova.com"><i class="fas fa-feather-alt"></i></a>
+</footer>
 
-
- <script src="js/map.js"></script>
 </body>
 
 </html>

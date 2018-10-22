@@ -8,7 +8,7 @@ var host = process.env.YOUR_HOST || '0.0.0.0';
 
 app.use(express.static(__dirname + '/public'));
 app.get('/', function(req, res) {
-    res.sendFile(path.join(__dirname + '/main.html'));
+    res.sendFile(path.join(__dirname + '/index.html'));
 });
 
 app.get('/map', function(req, res){

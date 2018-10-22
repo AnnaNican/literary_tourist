@@ -87,6 +87,8 @@ img.ontheright {
   width: 20%;
   padding-bottom: 10px;
   border-bottom: 1px solid #e2e2e2;
+  padding-right: 2%;
+  text-align: justify;
 /*  width: 20%;
   position: relative;
   display: flex;
@@ -255,7 +257,8 @@ img.mapboxgl-popup-content{
   display:inline-block;
   
   font-family: 'Raleway';
-  text-decoration:none; 
+  text-decoration:none;
+  text-transform: uppercase; 
   
   color: black;
   background-color:transparent;
@@ -275,8 +278,21 @@ img.mapboxgl-popup-content{
   color:rgba(255, 255, 255, 1);
   background-color: black;
   background-position: -100% 100%;
+
 }
 
+.button-index{
+  padding: 1.5em 0.5em;
+  background-color: black;
+  color: white;
+  width: 30%;
+}
+
+.button-index:hover{
+  color:black;
+  background-color: white;
+  background-position: -100% 100%;
+}
 
 /* Main
 ------------------------------------------- */
@@ -320,13 +336,17 @@ img.mapboxgl-popup-content{
 /* DEMO-SPECIFIC STYLES */
 .typewriter h1 {
   color: black;
-  font-family: 'Raleway';
-  font-size: 150px;
+  font-family: 'Raleway' sans-serif;
+  font-size: 120px;
+  font-weight: 300;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid black; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .01em; /* Adjust as needed */
+
+  padding-bottom: 30px;
+
   animation: 
     typing 5.5s steps(30, end),
     blink-caret .5s step-end infinite;
@@ -335,7 +355,8 @@ img.mapboxgl-popup-content{
 
 .typewriter h4 {
   color: black;
-  font-family: 'Raleway';
+  font-family: 'Raleway' sans-serif;
+  font-weight: 300;
   font-size: 30px;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   /*border-right: .15em solid black; /* The typwriter cursor */*/
@@ -346,6 +367,12 @@ img.mapboxgl-popup-content{
     typing 3.5s steps(30, end),
     blink-caret .5s step-end;
   animation-delay: 5.5s;*/
+
+  /*margin-top: 20%;*/
+  /*margin-bottom: 10%;*/
+
+  padding-bottom: 20px;
+
 }
 
 /* The typing effect */
@@ -389,6 +416,8 @@ img.mapboxgl-popup-content{
 
 
 
+/* FOOTER
+------------------------------------------- */
 
 
 
@@ -401,7 +430,23 @@ img.mapboxgl-popup-content{
 
 
 .fa-github {
-color: red;
-font-size: 40px;
+color: black;
+font-size: 20px;
 font-weight: 900;
+}
+
+.fa-info-circle{
+  color: black;
+  font-size: 20px;
+  font-weight: 900;
+}
+.fa-feather-alt{
+  color: black;
+  font-size: 20px;
+  font-weight: 900;
+}
+.fa-home{
+  color: black;
+  font-size: 20px;
+  font-weight: 900;
 }
